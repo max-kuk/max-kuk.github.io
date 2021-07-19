@@ -27,10 +27,11 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          personal_token: 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
+          personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: max-kuk/max-kuk.github.io
           publish_dir: ./public
           #   keep_files: true
           user_name: max-kuk
           user_email: max.kukushkin@pm.me
           publish_branch: main
+          #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
