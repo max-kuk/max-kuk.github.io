@@ -3,7 +3,7 @@ title: Maksim Kukushkin
 draft: false
 role: Research Assistant
 avatar: images/icon.png
-bio: 
+bio:
 organization:
   name: University of Leipzig
   url: https://www.uni-leipzig.de
