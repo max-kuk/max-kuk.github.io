@@ -16,5 +16,3 @@ draft: false
 Link to the official repository of the AM'21 "Automatic acoustic classification of feline sex"
 
 <!--more-->
-
-Will come soon!
