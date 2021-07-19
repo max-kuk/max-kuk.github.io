@@ -5,7 +5,11 @@ toc: true
 authors:
     - Maksim Kukushkin
 tags:
+    - audio pattern analysis
+    - classification
+    - tree-based algorithms
 categories:
+    - Audio pattern analysis
 series:
 date: '2021-07-18T13:11:22+08:00'
 lastmod: '2021-07-19T13:11:22+08:00'
