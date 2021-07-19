@@ -11,9 +11,9 @@ social:
   - icon: envelope
     iconPack: fas
     url: mailto:max.kukushkin@pm.me
-  - icon: twitter
+  - icon: linkedin
     iconPack: fab
-    url: https://example.com/
+    url: www.linkedin.com/in/maksim-kukushkin
   - icon: github
     iconPack: fab
     url: https://github.com/max-kuk
