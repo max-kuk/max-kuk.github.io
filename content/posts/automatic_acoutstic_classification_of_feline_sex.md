@@ -11,8 +11,8 @@ tags:
 categories:
     - Audio pattern analysis
 series:
-date: '18-07-2021'
-lastmod: '19-07-2021'
+date: '18/07/2021'
+lastmod: '19/07/2021'
 featuredImage: images/cat.png
 draft: false
 ---
