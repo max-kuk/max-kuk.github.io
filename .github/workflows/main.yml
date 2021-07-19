@@ -33,5 +33,5 @@ jobs:
           #   keep_files: true
           #user_name: max-kuk
           #user_email: max.kukuskin@yandex.com
-          publish_branch: main
+          publish_branch: master
           #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
