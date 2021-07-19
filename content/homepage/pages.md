@@ -4,9 +4,9 @@ draft: false
 # Section you want to display
 section: posts
 # Pages count
-count: 5
+count: 1
 # Options: card, plain and masonry.
-style: plain
+style: masonry
 
 weight: 2
 widget:
