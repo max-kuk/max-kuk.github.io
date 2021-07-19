@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on M. Kukushkin</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on M. Kukushkin</description>
+    <title>Maksim Kukushkin on M. Kukushkin</title>
+    <link>/authors/maksim-kukushkin/</link>
+    <description>Recent content in Maksim Kukushkin on M. Kukushkin</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;max-kuk.github.io&#34;&gt;M. Kukushkin&lt;/a&gt;
-</copyright><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+</copyright>
+    <lastBuildDate>Sun, 18 Jul 2021 13:11:22 +0800</lastBuildDate><atom:link href="/authors/maksim-kukushkin/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automatic acoustic classification of feline sex</title>
       <link>/posts/automatic_acoutstic_classification_of_feline_sex/</link>
