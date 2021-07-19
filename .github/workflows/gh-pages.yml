@@ -26,7 +26,11 @@ jobs:
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          personal_token: ${{ secrets.TOKEN }}
+          external_repository: <username>/<username>.github.io
           publish_dir: ./public
+          #   keep_files: true
+          user_name: <username>
+          user_email: <m@email.com>
+          publish_branch: master
