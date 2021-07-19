@@ -4,9 +4,9 @@ description:
 toc: true
 authors:
     - Maksim Kukushkin
-tags: audio pattern analysis
-categories: audio analysis
-series: audio analysis
+tags: audio
+categories:
+series:
 date: '2021-07-18T13:11:22+08:00'
 lastmod: '2021-07-19T13:11:22+08:00'
 featuredImage: images/cat.png
