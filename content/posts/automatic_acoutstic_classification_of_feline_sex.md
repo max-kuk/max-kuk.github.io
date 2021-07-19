@@ -6,7 +6,7 @@ authors:
     - Maksim Kukushkin
 tags: audio_pattern_analysis
 categories: audio_analysis
-series:audio_analysis
+series: audio_analysis
 date: '2021-07-18T13:11:22+08:00'
 lastmod: '2021-07-19T13:11:22+08:00'
 featuredImage: images/cat.png
