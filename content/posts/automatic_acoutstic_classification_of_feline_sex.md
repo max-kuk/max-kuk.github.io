@@ -4,7 +4,7 @@ description:
 toc: true
 authors:
     - Maksim Kukushkin
-tags: audio
+tags:
 categories:
 series:
 date: '2021-07-18T13:11:22+08:00'
