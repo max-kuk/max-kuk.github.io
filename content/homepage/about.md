@@ -51,15 +51,13 @@ widget:
 						You can find out more information about me and my projects below. Please click <a href="mailto:max.kukushkin@pm.me">here</a> if you would like to get in touch. </p>
 
 
-## Details  
+## Education  
 
-Nunc pellentesque vitae:
-- Morbi accumsan nibh efficitur diam molestie, non dignissim diam facilisis.
-- Donec dignissim leo in mollis faucibus.
-- Donec blandit lacus a pellentesque fermentum.
+10/2014 - 09/2018 - **B.Sc. Informational Systems, University of Leipzig**
+- Bachelor thesis "Hotel image classification with neuronal networks"
 
-Donec mollis sollicitudin:
-- Nunc dictum purus ornare purus consectetur, eu pellentesque massa ullamcorper.
-- Aliquam eu leo vitae justo aliquam tincidunt.
-- Fusce non massa id augue interdum feugiat sed et nulla.
-- Vivamus molestie augue in tristique laoreet.
+09/2020 - 03/2021 - **M.Sc. Computer Science, University of Milan**
+ - As an exchange student
+
+10/2018 - 05/2021 - **M.Sc. Informational Systems, University of Leipzig**
+- Master thesis "Flight price prediction in the context of European low-cost airlines"

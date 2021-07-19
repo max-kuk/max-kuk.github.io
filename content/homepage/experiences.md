@@ -15,7 +15,7 @@ experiences:
     organization:
       name: CHECK24 Reise GmbH
       url: https://check24.de
-    dates: '2017 - 2020'
+    dates: '04/2017 - 10/2020'
     location: Leipzig, Germany
     writeup: >
       - **Hotel Matching System**
@@ -31,7 +31,7 @@ experiences:
     organization:
       name: Posterlounge GmbH
       url: https://check24.de
-    dates: '2017 - 2020'
+    dates: '09/2017 - 03/2020'
     location: Leipzig, Germany
     writeup: >
 
