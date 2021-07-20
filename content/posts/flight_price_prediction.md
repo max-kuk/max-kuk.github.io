@@ -34,7 +34,8 @@ While writing my master's thesis, I also decided to take into account such facto
 
 ## Dataset collection
 
-
+<details>
+  <summary>Overview of features</summary>
 
 | Feature name                                            | Description                                               | Source                                                       |
 | ------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
@@ -51,6 +52,8 @@ While writing my master's thesis, I also decided to take into account such facto
 | HHI (monthly)                                           | *float*                                                   | [Flightstats](flightstats.com) (with subscription)           |
 | crude oil (monthly)                                     | *float*                                                   | [quandl.com](quandl.com)                                     |
 | temprerature features (e.g. avg_temp_bcn, avg_temp_ber) | *float*                                                   | [wunderground.com](wunderground.com)                         |
+
+</details>
 
 ### Gather weather data
 
