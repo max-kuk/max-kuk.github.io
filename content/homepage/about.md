@@ -45,10 +45,9 @@ widget:
 
 ## Self Introduction
 
-<p>I am Maksim Kukushkin, student at University of Lepzig and Milan at Information Systems Institute and Computer Science Department respectevly. At the same time I am a Data Science working student at <a href="https://check24.de">CHECK24 GmbH</a>.
-<br>I am currently writing my master's thesis, titled as "Flight price prediction in the context of European low-cost airlines," at  <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the University of Leipzig</a> under the supervision of <a href="http://ti.informatik.uni-leipzig.de/ml-group/staff/thomas-schmid/">Dr. Thomas Schmid</a>.
-							In my spare time I participate in various artificial intelligence challenges as a member of the university team and visit machine learning tech-talks in Leipzig.<br/>
-						You can find out more information about me and my projects below. Please click <a href="mailto:max.kukushkin@pm.me">here</a> if you would like to get in touch. </p>
+Hello! I am Maksim Kukushkin, a recent graduate from the <a href="https://uni-leipzig.de/en/">University of Leipzig</a>. I am currently working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the University of Leipzig</a>, where I analyse hyperspectral data, implementing an algorithm to classify diseases in seeds of different crops.
+Machine Learning Group at the University of Leipzig
+You can find out more information about me and my projects below. Please click <a href="mailto:max.kukushkin@pm.me">here</a> if you would like to get in touch. </p>
 
 
 ## Education  
