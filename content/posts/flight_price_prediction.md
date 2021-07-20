@@ -92,7 +92,7 @@ where:
 
 {{< mermaid >}}
 pie
-    title Pie Chart
+    title Average market share of airlines on the BER-BCN route (2017-2020)
     "ASL Airlines France" : 0.02
     "easyJet" : 39.76
     "Eurowings" : 3.17
