@@ -54,13 +54,17 @@ While writing my master's thesis, I also decided to take into account such facto
 
 ### Gather weather data
 
-To collect the historical weather data you can use [wunderground.com](wunderground.com) website. To my best knowledge, it’s only one website provide historical temperature data for free. To collect the temperature in departure and arrival cities, the crawler was build to automise the process. 
+To collect the historical weather data you can use [wunderground.com](wunderground.com) website. To my best knowledge, it’s only one website provide historical temperature data for free. To collect the temperature in departure and arrival cities, the crawler was build to automise the process.
 
 
+<details>
+  <summary>Crawler code</summary>
+<p>
 
 <script src="https://gist.github.com/max-kuk/8037447a425d3bb53e58a374397839d7.js"></script>
 
-
+</p>
+</details>
 
 ### Gather flight route statistics and calculate HHI
 
@@ -77,3 +81,4 @@ where:
 
 <script src="https://gist.github.com/max-kuk/6d161d3b6372bda3f5c4294c826e103e.js"></script>
 
+## Conclusion
