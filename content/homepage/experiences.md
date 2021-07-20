@@ -34,6 +34,8 @@ experiences:
     dates: '09/2017 - 03/2020'
     location: Leipzig, Germany
     writeup: >
+      - **Portal for customer returns**
+        - Building of portal for customer returns where customers can process their returns, including printing the retoure label.
 
 
 
