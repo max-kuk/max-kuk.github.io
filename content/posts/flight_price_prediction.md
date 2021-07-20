@@ -13,7 +13,7 @@ categories:
 series:
 date: '2021-04-18'
 lastmod: '2021-05-19'
-featuredImage: images/ryanair.png
+featuredImage: images/ryanair.jpg
 draft: false
 ---
 
