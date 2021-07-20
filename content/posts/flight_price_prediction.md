@@ -64,5 +64,16 @@ To collect the historical weather data you can use [wunderground.com](wundergrou
 
 ### Gather flight route statistics and calculate HHI
 
-This is the introduction article to the serie “Flight price prediction”, where I on my example will demonstrate how to find interesting features for flight price prediction.
+Herfindahl-Hirschman-Index or HHI  is a measure of the size of firms in relation to the market they are in and an indicator of the amount of competition among them.
+
+$HHI = \sum_{i=1}^{N} s_{i}^{2},$
+
+where:
+
+- $s_{i}$  is the market share of firm $i$ in the market,
+- $N$ is the number of firms on the market.
+
+
+
+<script src="https://gist.github.com/max-kuk/6d161d3b6372bda3f5c4294c826e103e.js"></script>
 
