@@ -93,9 +93,12 @@ where:
 {{< mermaid >}}
 pie
     title Pie Chart
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 150
+    "ASL Airlines France" : 0.02
+    "easyJet" : 39.76
+    "Eurowings" : 3.17
+    "Germanwings" : 4.24
+    "Ryanair" : 33.14
+    "Vueling" : 19.68
 {{< /mermaid >}}
 
 
