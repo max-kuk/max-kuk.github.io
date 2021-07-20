@@ -56,6 +56,10 @@ While writing my master's thesis, I also decided to take into account such facto
 
 To collect the historical weather data you can use [wunderground.com](wunderground.com) website. To my best knowledge, it’s only one website provide historical temperature data for free. To collect the temperature in departure and arrival cities, the crawler was build to automise the process. 
 
+
+
+<script src="https://gist.github.com/nisrulz/11c0d63428b108f10c83.js"></script>
+
  
 
 ```python
