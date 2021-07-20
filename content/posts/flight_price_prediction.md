@@ -52,5 +52,11 @@ While writing my master's thesis, I also decided to take into account such facto
 | crude oil (monthly)                                     | *float*                                                   | [quandl.com](quandl.com)                                     |
 | temprerature features (e.g. avg_temp_bcn, avg_temp_ber) | *float*                                                   | [wunderground.com](wunderground.com)                         |
 
+## Gather weather data
+
+
+
+## Gather flight route statistics and calculate HHI
+
 This is the introduction article to the serie “Flight price prediction”, where I on my example will demonstrate how to find interesting features for flight price prediction.
 
