@@ -10,8 +10,7 @@ experiences:
     location: Leipzig, Germany
     writeup: >
       - Practice ML on hyperspectral images
-
-        #python #tensorflow
+        #python #tensorflow #scipy
 
   - title: Working Student Data Science / Backend Developer
     organization:
@@ -22,17 +21,14 @@ experiences:
     writeup: >
       - **Hotel Matching System**
         - Automatic hotel matching based on the descriptions of various hotel providers
-
           #python #scikit-learn #pandas #regex
 
       - **Automatic hotel image classification system**
         - Integration of external providers via provided API into the existing IT architecture
-
           #python #tensorflow #docker
 
       - **Integration & maintenance of new APIs**
         - Classification of hotel images into different categories using transfer learning
-
           #php #zend_framework #laminas #mySQL #git
 
   - title: Internship Web-Developer
@@ -44,7 +40,6 @@ experiences:
     writeup: >
       - **Portal for customer returns**
         - Design and development of a customer returns portal where customers initiate and process their returns
-
           #html #css #php #mySQL #git #jQuery #smarty
 
 
