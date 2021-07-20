@@ -43,6 +43,21 @@ widget:
     attachment:
 ---
 
+
+<!-- Yandex.Metrika counter -->
+		<script type="text/javascript" >
+		   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+		   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+		   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+		   ym(72762643, "init", {
+		        clickmap:true,
+		        trackLinks:true,
+		        accurateTrackBounce:true
+		   });
+		</script>
+		<noscript><div><img src="https://mc.yandex.ru/watch/72762643" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+
 ## Self Introduction
 
 Hello! I am Maksim Kukushkin, a recent graduate from the <a href="https://uni-leipzig.de/en/">University of Leipzig</a>. I am currently working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the University of Leipzig</a>, where I analyse hyperspectral data, implementing an algorithm to classify diseases in seeds of different crops.
