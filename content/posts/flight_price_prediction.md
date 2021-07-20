@@ -28,7 +28,7 @@ The prediction of itinerary price could be challenging even if you use machine l
 
 Factors affecting the price of a route can be manifold: passenger load factor, carosine price, competition between airlines on the route and competition between airlines in the market in general. Other factors may be airport services prices, government subsidies and etc.
 
-While writing my master's thesis, I also decided to take into account such factors as weather conditions at the departure and destination airports, large events such as Formula-1 or Champion Leages football matches and national holidays. Additionally, I considered school vacations in federal land of Germany, where Berlin airport is located.
+While writing my master's thesis, I also decided to take into account such factors as weather conditions at the departure and destination airports, large events such as Formula-1 or UEFA Champion Leages football games and national holidays. Additionally, I considered school vacations in federal land of Germany, where Berlin airport is located.
 
 
 
