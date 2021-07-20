@@ -46,7 +46,7 @@ widget:
 ## Self Introduction
 
 Hello! I am Maksim Kukushkin, a recent graduate from the <a href="https://uni-leipzig.de/en/">University of Leipzig</a>. I am currently working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the University of Leipzig</a>, where I analyse hyperspectral data, implementing an algorithm to classify diseases in seeds of different crops.
-Machine Learning Group at the University of Leipzig
+
 You can find out more information about me and my projects below. Please click <a href="mailto:max.kukushkin@pm.me">here</a> if you would like to get in touch. </p>
 
 

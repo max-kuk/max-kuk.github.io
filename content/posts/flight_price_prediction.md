@@ -32,29 +32,25 @@ While writing my master's thesis, I also decided to take into account such facto
 
 
 
-| Feature name         | Source                      |
-| -------------------- | --------------------------- |
-| days_until_departure |                             |
-| day_of_week          |                             |
-| year                 |                             |
-| month                |                             |
-| day                  |                             |
-| weekend              |                             |
-| holiday              | public holiday calendar     |
-| school vacation      | calendar of school vacation |
-| event                | UEFA Champion League        |
-| HHI                  | flightstats.com             |
-| crude oil            | quandl.com                  |
-| avg_temp_bcn         | wunderground.com            |
-| min_temp_bcn         | wunderground.com            |
-| max_temp_bcn         | wunderground.com            |
-| avg_temp_ber         | wunderground.com            |
-| min_temp_ber         | wunderground.com            |
-| max_temp_ber         | wunderground.com            |
-
-
-
 # Dataset collection
 
-This is the introduction article to the serie “Flight price prediction”, where I on my example will demosntrate how to find interesting features for flight price prediction.
+
+
+| Feature name                                            | Description                                               | Source                                             |
+| ------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------------------- |
+| fr_price                                                | *float*, price of ryanair flight on observation date (ts) |                                                    |
+| days_until_departure                                    | *int*                                                     | = observation date (ts) - departure date           |
+| day_of_week                                             | *int*, encoded as 0-6                                     |                                                    |
+| year                                                    | *int,* 2018-2020                                          |                                                    |
+| month                                                   | *int*, 1-12                                               |                                                    |
+| day                                                     | *int*, 1-31                                               |                                                    |
+| weekend                                                 | *boolean*, 0 or 1                                         |                                                    |
+| holiday                                                 | *boolean*, 0 or 1                                         | public holiday calendar                            |
+| school vacation                                         | *boolean*, 0 or 1                                         | calendar of school vacation                        |
+| event                                                   | *boolean*, 0 or 1                                         | UEFA Champion League                               |
+| HHI (monthly)                                           | *float*                                                   | [Flightstats](flightstats.com) (with subscription) |
+| crude oil (monthly)                                     | *float*                                                   | [quandl.com](quandl.com)                           |
+| temprerature features (e.g. avg_temp_bcn, avg_temp_ber) | *float*                                                   | [wunderground.com](wunderground.com)               |
+
+This is the introduction article to the serie “Flight price prediction”, where I on my example will demonstrate how to find interesting features for flight price prediction.
 
