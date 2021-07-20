@@ -35,7 +35,7 @@ experiences:
     location: Leipzig, Germany
     writeup: >
       - **Portal for customer returns**
-        - Building of portal for customer returns where customers start and process their returns.
+        - Design and development of a customer returns portal where customers initiate and process their returns
 
 
 
