@@ -14,7 +14,7 @@ series:
 date: '2021-07-18'
 lastmod: '2021-07-19'
 featuredImage: images/cat.png
-draft: false
+draft: true
 ---
 
 Link to the official repository of the AM'21 "Automatic acoustic classification of feline sex"
