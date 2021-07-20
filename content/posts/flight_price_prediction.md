@@ -58,7 +58,7 @@ To collect the historical weather data you can use [wunderground.com](wundergrou
 
 
 <details>
-  <summary>Crawler code</summary>
+  <summary>Weather crawler code</summary>
 <p>
 
 <script src="https://gist.github.com/max-kuk/8037447a425d3bb53e58a374397839d7.js"></script>
@@ -78,7 +78,16 @@ where:
 - $N$ is the number of firms on the market.
 
 
+<details>
+  <summary>Flightstats crawler code</summary>
+<p>
 
 <script src="https://gist.github.com/max-kuk/6d161d3b6372bda3f5c4294c826e103e.js"></script>
+
+</p>
+</details>
+
+
+
 
 ## Conclusion
