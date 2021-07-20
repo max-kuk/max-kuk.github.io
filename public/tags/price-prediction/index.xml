@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on MK</title>
-    <link>/posts/</link>
-    <description>Recent content in Posts on MK</description>
+    <title>price prediction on MK</title>
+    <link>/tags/price-prediction/</link>
+    <description>Recent content in price prediction on MK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&amp;copy; 2021 &lt;a href=&#34;max-kuk.github.io&#34;&gt;MK&lt;/a&gt;
-</copyright><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+</copyright>
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/price-prediction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>To buy or not to buy? (Part I)</title>
       <link>/posts/flight_price_prediction/</link>

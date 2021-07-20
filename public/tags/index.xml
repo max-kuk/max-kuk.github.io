@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on M. Kukushkin</title>
+    <title>Tags on MK</title>
     <link>/tags/</link>
-    <description>Recent content in Tags on M. Kukushkin</description>
+    <description>Recent content in Tags on MK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>&amp;copy; 2021 &lt;a href=&#34;max-kuk.github.io&#34;&gt;M. Kukushkin&lt;/a&gt;
+    <copyright>&amp;copy; 2021 &lt;a href=&#34;max-kuk.github.io&#34;&gt;MK&lt;/a&gt;
 </copyright>
-    <lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>audio pattern analysis</title>
-      <link>/tags/audio-pattern-analysis/</link>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <title>price prediction</title>
+      <link>/tags/price-prediction/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/audio-pattern-analysis/</guid>
+      <guid>/tags/price-prediction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>classification</title>
-      <link>/tags/classification/</link>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/classification/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tree-based algorithms</title>
       <link>/tags/tree-based-algorithms/</link>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/tree-based-algorithms/</guid>
       <description></description>
