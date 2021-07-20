@@ -1,5 +1,5 @@
 ---
-title: To buy or not to buy? (Dataset collection)
+title: To buy or not to buy? (Part I)
 description:
 toc: true
 authors:
@@ -10,7 +10,7 @@ tags:
     - tree-based algorithms
 categories:
     - price prediction
-series: 
+series:
     - flight price prediction
 date: '2021-04-18'
 lastmod: '2021-05-19'
@@ -33,4 +33,3 @@ While writing my master's thesis, I also decided to take into account such facto
 # Dataset collection
 
 This is the introduction article to the serie “Flight price prediction”, where I on my example will demosntrate how to find interesting features for flight price prediction.
-
