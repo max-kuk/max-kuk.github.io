@@ -22,7 +22,7 @@ In this article serie  we will talk on how to predict a ticket price with machin
 
 <!--more-->
 
-# Introduction
+## Introduction
 
 The prediction of itinerary price could be challenging even if you use machine learning. Especially, when you predict the prices of low-cost airline companies. Low-cost airlines use dynamic pricing systems to ensure high passenger loads thereby maximising revenue on the flight.
 
@@ -32,7 +32,7 @@ While writing my master's thesis, I also decided to take into account such facto
 
 
 
-# Dataset collection
+## Dataset collection
 
 
 
@@ -52,11 +52,11 @@ While writing my master's thesis, I also decided to take into account such facto
 | crude oil (monthly)                                     | *float*                                                   | [quandl.com](quandl.com)                                     |
 | temprerature features (e.g. avg_temp_bcn, avg_temp_ber) | *float*                                                   | [wunderground.com](wunderground.com)                         |
 
-## Gather weather data
+### Gather weather data
 
 
 
-## Gather flight route statistics and calculate HHI
+### Gather flight route statistics and calculate HHI
 
 This is the introduction article to the serie “Flight price prediction”, where I on my example will demonstrate how to find interesting features for flight price prediction.
 
