@@ -5,8 +5,8 @@ role: Research Assistant
 avatar: images/icon.png
 bio:
 organization:
-  name: University of Leipzig
-  url: https://www.uni-leipzig.de
+  name: Machine Learning Grout @ University of Leipzig
+  url: https://www.uni-leipzig.de/en
 social:
   - icon: envelope
     iconPack: fas
@@ -51,7 +51,7 @@ Hello! I am Maksim Kukushkin, a recent graduate from the <a href="https://uni-le
 You can find out more information about me and my projects below. Please click <a href="mailto:max.kukushkin@pm.me">here</a> if you would like to get in touch. </p>
 
 
-## Education  
+## Education
 
 10/2014 - 09/2018 - **B.Sc. Informational Systems, University of Leipzig**
 - Bachelor thesis "Hotel image classification with neuronal networks"
