@@ -5,7 +5,7 @@ experiences:
   - title: Research Assistant
     organization:
       name: University of Leipzig
-      url: https://www.uni-leipzig.de
+      url: https://www.uni-leipzig.de/en/
     dates: '08/2021 - Present'
     location: Leipzig, Germany
     writeup: >
