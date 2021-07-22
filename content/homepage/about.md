@@ -54,6 +54,8 @@ You can find out more information about me and my projects below. Please click <
 
 My research focuses on computer vision, in particular hyperspectral image analysis and developing neuronal networks for non-remote sensing data.
 
+<br><small>#hyperspectral_imaging #computer_vision #tensorflow #pytorch #machine_learning</small>
+
 
 ## Education
 
