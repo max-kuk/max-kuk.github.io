@@ -50,6 +50,10 @@ Hello! I am Maksim Kukushkin, a recent graduate from the <a href="https://uni-le
 
 You can find out more information about me and my projects below. Please click <a href="mailto:max.kukushkin@pm.me">here</a> if you would like to get in touch. </p>
 
+## Research interests
+
+My research focuses on computer vision, in particular hyperspectral image analysis and developing neuronal networks for non-remote sensing data.
+
 
 ## Education
 
