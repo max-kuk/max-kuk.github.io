@@ -8,7 +8,6 @@ tags:
     - regression
     - tree-based algorithms
 categories:
-    - price prediction
 series:
     - flight price prediction
 date: '2021-04-18'
