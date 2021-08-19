@@ -1,5 +1,5 @@
 ---
-title: Audio classification of the cat's sex
+title: Acoustic classification of the cat's sex
 description:
 toc: true
 tags:
