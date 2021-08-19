@@ -26,9 +26,9 @@ In this article serie  we will talk on how to predict a ticket price with machin
 
 The prediction of itinerary price could be challenging even if you use machine learning. Especially, when you predict the prices of low-cost airline companies. Low-cost airlines use dynamic pricing systems to ensure high passenger loads thereby maximising revenue on the flight.
 
-Factors affecting the price of a route can be manifold: passenger load factor, carosine price, competition between airlines on the route and competition between airlines in the market in general. Other factors may be airport services prices, government subsidies and etc.
+Factors affecting the price of a route can be manifold: passenger load factor, kerosene price, competition between airlines on the route and competition between airlines in the market. Other factors may be airport services prices, government subsidies, etc.
 
-While writing my master's thesis, I also decided to take into account such factors as weather conditions at the departure and destination airports, large events such as Formula-1 or UEFA Champion Leages football games and national holidays. Additionally, I considered school vacations in federal land of Germany, where Berlin airport is located.
+While writing my master's thesis, I also decided to take into account such factors as weather conditions at the departure and destination airports, large events such as Formula-1 or UEFA Champion League football games and national holidays. Additionally, I considered school vacations in the federal land of Germany, where Berlin airport is located.
 
 
 
@@ -57,7 +57,7 @@ While writing my master's thesis, I also decided to take into account such facto
 
 ### Gather weather data
 
-To collect the historical weather data you can use [wunderground.com](wunderground.com) website. To my best knowledge, it’s only one website provide historical temperature data for free. To collect the temperature in departure and arrival cities, the crawler was build to automise the process.
+To collect the historical weather data you can use [wunderground.com](wunderground.com) website. To my best knowledge, it is only one website that provides historical temperature data for free. To collect the temperature in departure and arrival cities, the crawler was build to automate the process.
 
 
 <details>
