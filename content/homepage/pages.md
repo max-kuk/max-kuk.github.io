@@ -6,7 +6,7 @@ section: posts
 # Pages count
 count: 1
 # Options: card, plain and masonry.
-style: card
+style: masonry
 
 weight: 2
 widget:
