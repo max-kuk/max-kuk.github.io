@@ -14,7 +14,7 @@ series:
     - audio recognition
 date: '2021-08-19'
 lastmod: '2021-08-19'
-featuredImage: images/cat.jpg
+featuredImage: images/cat.png
 draft: true
 ---
 
