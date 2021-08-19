@@ -3,7 +3,6 @@ title: To buy or not to buy? (Part I)
 description:
 toc: true
 authors:
-    - Maksim Kukushkin
 tags:
     - price prediction
     - regression

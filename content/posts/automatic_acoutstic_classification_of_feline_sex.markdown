@@ -2,8 +2,6 @@
 title: Audio classification of the cat's sex
 description:
 toc: true
-authors:
-    - Maksim Kukushkin
 tags:
     - audio recognition
     - classification
