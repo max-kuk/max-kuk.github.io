@@ -7,9 +7,7 @@ tags:
     - classification
     - bioacoustics
 categories:
-    - audio recognition
 series:
-    - audio recognition
 date: '2021-08-19'
 lastmod: '2021-08-19'
 featuredImage: images/cat.png

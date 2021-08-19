@@ -17,7 +17,7 @@ featuredImage: images/ryanair.jpg
 draft: false
 ---
 
-In this article serie  we will talk on how to predict a ticket price with machine learning.
+In this article serie we will talk on how to predict a ticket price with machine learning.
 
 <!--more-->
 
@@ -48,7 +48,7 @@ While writing my master's thesis, I also decided to take into account such facto
 | holiday                                                 | *boolean*, 0 or 1                                         | [public holiday calendar](https://www.schulferien.org/Kalender_mit_Ferien/kalender_2021_ferien_Berlin.html) (in German) |
 | school vacation                                         | *boolean*, 0 or 1                                         | [calendar of school vacation](https://www.schulferien.org/Berlin/berlin.html) (in German) |
 | event                                                   | *boolean*, 0 or 1                                         | Calendar of UEFA Champion League  games and etc.             |
-| HHI (monthly)                                           | *float*                                                   | [Flightstats](flightstats.com) (with subscription)           |
+| HHI (monthly)                                           | *float*                                                   | [flightstats](flightstats.com) (with subscription)           |
 | crude oil (monthly)                                     | *float*                                                   | [quandl.com](quandl.com)                                     |
 | temprerature features (e.g. avg_temp_bcn, avg_temp_ber) | *float*                                                   | [wunderground.com](wunderground.com)                         |
 
