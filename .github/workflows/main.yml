@@ -25,13 +25,15 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          #external_repository: max-kuk/max-kuk.github.io
+         
           publish_dir: ./public
+          publish_branch: master
+           #external_repository: max-kuk/max-kuk.github.io
           #   keep_files: true
           #user_name: max-kuk
           #user_email: max.kukuskin@yandex.com
-          publish_branch: master
+          
           #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
