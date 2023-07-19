@@ -10,7 +10,7 @@ organization:
 social:
   - icon: envelope
     iconPack: fas
-    url: mailto:max.kukushkin@pm.me
+    url: mailto:max.kukushkin@proton.me
   - icon: linkedin
     iconPack: fab
     url: www.linkedin.com/in/maksim-kukushkin
@@ -46,15 +46,21 @@ widget:
 
 ## Self Introduction
 
-Salut! I am Maksim Kukushkin, a recent graduate from the <a href="https://uni-leipzig.de/en/">University of Leipzig</a>. I am currently working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the University of Leipzig</a>, where I analyse hyperspectral data, implementing an algorithm to classify diseases in seeds of different crops.
+Salut! I'm Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. Currently, I am delighted to be working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the Leipzig University</a>. My primary focus involves analyzing hyperspectral data and developing an algorithm to classify seeds.
 
-You can find out more information about me and my projects below. Please click <a href="mailto:max.kukushkin@pm.me">here</a> if you would like to get in touch. </p>
+If you're curious to learn more about me and the exciting projects I'm involved in, feel free to explore the information below. If you'd like to get in touch, simply click the <a href="mailto:max.kukushkin@proton.me">here</a> provided. I look forward to connecting with you!</p>
+
 
 ## Research interests
 
 My research focuses on computer vision, in particular hyperspectral image analysis and developing neuronal networks for non-remote sensing data.
 
-<br><small>#hyperspectral_imaging #computer_vision #tensorflow #pytorch #machine_learning</small>
+<br><small> #computer_vision #hyperspectral_imaging #anaomaly_detection #tensorflow #pytorch #machine_learning</small>
 
 
 ## Publications
+
+- **Kukushkin, M.** & Stavros, N. 2021. Automatic acoustic classification of feline sex. In Proceedings of the 16th International Audio Mostly Conference (AM '21). Association for Computing Machinery, New York, NY, USA, 156–160. https://doi.org/10.1145/3478384.3478385
+
+
+

@@ -15,18 +15,19 @@ lastmod: '2021-05-19'
 featuredImage: images/ryanair.jpg
 draft: false
 ---
-
-In this article serie we will talk on how to predict a ticket price with machine learning.
+In this blog series, we'll discuss how to use machine learning to predict the price of travel itineraries.
 
 <!--more-->
 
 ## Introduction
 
-The prediction of itinerary price could be challenging even if you use machine learning. Especially, when you predict the prices of low-cost airline companies. Low-cost airlines use dynamic pricing systems to ensure high passenger loads thereby maximising revenue on the flight.
+Predicting the cost of a trip can be tricky, even with the help of machine learning. This is especially true when trying to predict the prices of flights from low-cost airlines. These airlines use a flexible pricing system to fill up their planes with as many passengers as possible, which helps them make more money from each flight.
 
-Factors affecting the price of a route can be manifold: passenger load factor, kerosene price, competition between airlines on the route and competition between airlines in the market. Other factors may be airport services prices, government subsidies, etc.
+There are many factors that can influence the price of a flight route. Some of these include how many seats are filled on the plane (passenger load factor), the price of kerosene fuel, the competition between airlines on that specific route, and the overall competition among airlines in the market. Other factors, like the costs of airport services and government subsidies, can also play a role.
 
-While writing my master's thesis, I also decided to take into account such factors as weather conditions at the departure and destination airports, large events such as Formula-1 or UEFA Champion League football games and national holidays. Additionally, I considered school vacations in the federal land of Germany, where Berlin airport is located.
+When I was writing my master's thesis, I took into account additional factors that can impact flight prices. These factors included the weather conditions at both the departure and destination airports, any major events happening at those locations (such as Formula-1 races or UEFA Champion League football games), and national holidays. I also considered school vacations in the federal state of Germany where the Berlin airport is located.
+
+Considering all of these factors can help improve the accuracy of predicting flight prices and make it easier to plan and budget for your travel expenses.
 
 
 
@@ -55,7 +56,7 @@ While writing my master's thesis, I also decided to take into account such facto
 
 ### Gather weather data
 
-To collect the historical weather data you can use [wunderground.com](wunderground.com) website. To my best knowledge, it is only one website that provides historical temperature data for free. To collect the temperature in departure and arrival cities, the crawler was build to automate the process.
+If you want to gather past weather information, you can use the website [wunderground.com](wunderground.com). As far as I know, it's the only website that offers historical temperature data for free. To automatically collect the temperatures of your departure and arrival cities, a special tool called a 'crawler' was created to do the job for you.
 
 
 <details>
@@ -69,7 +70,7 @@ To collect the historical weather data you can use [wunderground.com](wundergrou
 
 ### Gather flight route statistics and calculate HHI
 
-Herfindahl-Hirschman-Index or HHI  is a measure of the size of firms in relation to the market they are in and an indicator of the amount of competition among them.
+The Herfindahl-Hirschman Index, or HHI, is a way to measure how big companies are compared to the market they operate in. It also shows how much competition exists between these companies.
 
 $HHI = \sum_{i=1}^{N} s_{i}^{2},$
 

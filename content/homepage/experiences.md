@@ -4,13 +4,13 @@ draft: false
 experiences:
   - title: Research Assistant
     organization:
-      name: University of Leipzig
+      name: Leipzig University
       url: https://www.uni-leipzig.de/en/
     dates: '08/2021 - Present'
     location: Leipzig, Germany
     writeup: >
-      - Practice ML on hyperspectral images
-        <br><small>#python #tensorflow #scipy</small>
+      - Practice CV & DL on hyperspectral images
+        <br><small>#python #tensorflow #spectral</small>
 
   - title: Working Student Data Science / Backend Developer
     organization:
