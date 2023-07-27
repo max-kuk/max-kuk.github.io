@@ -55,7 +55,7 @@ If you&#39;re curious to learn more about me and the exciting projects I&#39;m i
 
 My research centers on computer vision with a specialization in hyperspectral imaging. Specifically, I am interested in various aspects such as classification, anomaly detection, and morphological networks.
 
-<br><small> #computer_vision #hyperspectral_imaging #anomaly_detection #tensorflow #pytorch #machine_learning</small>
+<br><small> #computer_vision #hyperspectral_imaging #anomaly_detection #tensorflow #pytorch #deep_learning</small>
 
 
 ## Publications
