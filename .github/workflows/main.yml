@@ -32,9 +32,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
-           #external_repository: max-kuk/max-kuk.github.io
-          #   keep_files: true
-          #user_name: max-kuk
-          #user_email: max.kukuskin@yandex.com
-          
-          #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
