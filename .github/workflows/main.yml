@@ -23,11 +23,11 @@ jobs:
           hugo-version: '0.110.0'
           # extended: true
         - uses: actions/cache@v2
-        with:
-          path: /tmp/hugo_cache
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
+          with:
+            path: /tmp/hugo_cache
+            key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+            restore-keys: |
+              ${{ runner.os }}-hugomod-
 
       - name: Build
         run: hugo --minify
