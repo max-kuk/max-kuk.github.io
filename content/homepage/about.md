@@ -5,7 +5,7 @@ role: Research Assistant
 avatar: images/icon.png
 bio:
 organization:
-  name: Machine Learning Group, University of Leipzig
+  name: Machine Learning Group, Leipzig University
   url: https://www.uni-leipzig.de/en
 social:
   - icon: envelope
