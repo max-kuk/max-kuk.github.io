@@ -55,7 +55,7 @@ If you&#39;re curious to learn more about me and the exciting projects I&#39;m i
 
 My research focuses on computer vision, in particular hyperspectral image analysis and developing neuronal networks for non-remote sensing data.
 
-<br><small> #computer_vision #hyperspectral_imaging #anaomaly_detection #tensorflow #pytorch #machine_learning</small>
+<br><small> #computer_vision #hyperspectral_imaging #anomaly_detection #tensorflow #pytorch #machine_learning</small>
 
 
 ## Publications
