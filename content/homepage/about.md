@@ -61,6 +61,3 @@ My research focuses on computer vision, in particular hyperspectral image analys
 ## Publications
 
 - **Kukushkin, M.** & Stavros, N. 2021. Automatic acoustic classification of feline sex. In Proceedings of the 16th International Audio Mostly Conference (AM '21). Association for Computing Machinery, New York, NY, USA, 156–160. https://doi.org/10.1145/3478384.3478385
-
-
-
