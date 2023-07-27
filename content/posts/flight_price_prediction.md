@@ -11,11 +11,11 @@ categories:
 series:
     - flight price prediction
 date: '2021-04-18'
-lastmod: '2021-05-19'
+lastmod: '2023-07-27'
 featuredImage: images/ryanair.jpg
 draft: false
 ---
-In this blog series, we'll discuss how to use machine learning to predict the price of travel itineraries.
+In this blog series, we&#39;ll discuss how to use machine learning to predict the price of travel itineraries.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Predicting the cost of a trip can be tricky, even with the help of machine learn
 
 There are many factors that can influence the price of a flight route. Some of these include how many seats are filled on the plane (passenger load factor), the price of kerosene fuel, the competition between airlines on that specific route, and the overall competition among airlines in the market. Other factors, like the costs of airport services and government subsidies, can also play a role.
 
-When I was writing my master's thesis, I took into account additional factors that can impact flight prices. These factors included the weather conditions at both the departure and destination airports, any major events happening at those locations (such as Formula-1 races or UEFA Champion League football games), and national holidays. I also considered school vacations in the federal state of Germany where the Berlin airport is located.
+When I was writing my master&#39;s thesis, I took into account additional factors that can impact flight prices. These factors included the weather conditions at both the departure and destination airports, any major events happening at those locations (such as Formula-1 races or UEFA Champion League football games), and national holidays. I also considered school vacations in the federal state of Germany where the Berlin airport is located.
 
 Considering all of these factors can help improve the accuracy of predicting flight prices and make it easier to plan and budget for your travel expenses.
 
@@ -56,7 +56,7 @@ Considering all of these factors can help improve the accuracy of predicting fli
 
 ### Gather weather data
 
-If you want to gather past weather information, you can use the website [wunderground.com](wunderground.com). As far as I know, it's the only website that offers historical temperature data for free. To automatically collect the temperatures of your departure and arrival cities, a special tool called a 'crawler' was created to do the job for you.
+If you want to gather past weather information, you can use the website [wunderground.com](wunderground.com). As far as I know, it&#39;s the only website that offers historical temperature data for free. To automatically collect the temperatures of your departure and arrival cities, a special tool called a &#39;crawler&#39; was created to do the job for you.
 
 
 <details>

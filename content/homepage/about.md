@@ -46,9 +46,9 @@ widget:
 
 ## Self Introduction
 
-Salut! I'm Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. Currently, I am delighted to be working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the Leipzig University</a>. My primary focus involves analyzing hyperspectral data and developing an algorithm to classify seeds.
+Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. Currently, I am delighted to be working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the Leipzig University</a>. My primary focus involves analyzing hyperspectral data and developing an algorithm to classify seeds.
 
-If you're curious to learn more about me and the exciting projects I'm involved in, feel free to explore the information below. If you'd like to get in touch, simply click the <a href="mailto:max.kukushkin@proton.me">here</a> provided. I look forward to connecting with you!</p>
+If you&#39;re curious to learn more about me and the exciting projects I&#39;m involved in, feel free to explore the information below. If you&#39;d like to get in touch, simply click the <a href="mailto:max.kukushkin@proton.me">here</a> provided. I look forward to connecting with you!</p>
 
 
 ## Research interests
@@ -60,4 +60,4 @@ My research focuses on computer vision, in particular hyperspectral image analys
 
 ## Publications
 
-- **Kukushkin, M.** & Stavros, N. 2021. Automatic acoustic classification of feline sex. In Proceedings of the 16th International Audio Mostly Conference (AM '21). Association for Computing Machinery, New York, NY, USA, 156–160. https://doi.org/10.1145/3478384.3478385
+- **Kukushkin, M.** & Stavros, N. 2021. Automatic acoustic classification of feline sex. In Proceedings of the 16th International Audio Mostly Conference (AM &#39;21). Association for Computing Machinery, New York, NY, USA, 156–160. https://doi.org/10.1145/3478384.3478385

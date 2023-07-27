@@ -1,5 +1,5 @@
 ---
-title: Acoustic classification of the cat's sex
+title: Acoustic classification of the cat&#39;s sex
 description:
 toc: true
 tags:
@@ -9,14 +9,14 @@ tags:
 categories:
 series:
 date: '2021-08-19'
-lastmod: '2021-08-19'
+lastmod: '2023-07-27'
 featuredImage: images/cat.png
 draft: true
 ---
 
 <!--more-->
 
-Here you will find video of official presentation of the paper „Automatic acoustic classification of feline sex“  and the link to the paper.
+Here you will find video of official presentation of the paper „Automatic acoustic classification of feline sex“ and the link to the paper.
 
 ### Video
 
