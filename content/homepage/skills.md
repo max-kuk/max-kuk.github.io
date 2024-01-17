@@ -6,7 +6,7 @@ widget:
   handler: blank
 
   # Options: sm, md, lg and xl. Default is md.
-  width:
+  width: md
 
   sidebar:
     # Options: left and right. Leave blank to hide.
@@ -26,6 +26,8 @@ widget:
     attachment:
 
 ---
+
+## Skills
 
 - **Programming Languages**
   - Python, PHP, R, SQL, HTML, CSS, Bash.
