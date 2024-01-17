@@ -1,5 +1,5 @@
 ---
-title: University
+title: Education
 draft: false
 experiences:
   - title: M.Sc. Computer Science (Semester Abroad)
@@ -29,7 +29,7 @@ widget:
   handler: experiences
 
   # Options: sm, md, lg and xl. Default is md.
-  width: xl
+  width: sm
 
   sidebar:
     # Options: left and right. Leave blank to hide.
