@@ -1,5 +1,5 @@
 ---
-title: Experiences
+title: Work Experiences
 draft: false
 experiences:
   - title: Research Assistant

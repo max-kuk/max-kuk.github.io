@@ -44,10 +44,10 @@ widget:
 ---
 
 
-## About me
+## About Me
 
-Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>.I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department, Leipzig University. My primary focus is on analyzing hyperspectral data and developing algorithms for the classification of various seed species.
+Salut! I&#39;m Maksim Kukushkin, a graduated from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department, Leipzig University. My primary focus is on analyzing hyperspectral data and developing algorithms for the classification of various seed species.
 
-## Research interests
+## Research Interests
 
 My research centers on computer vision with a specialization in hyperspectral imaging. Specifically, I am interested in various aspects of classification, anomaly detection, and morphological networks for hyperspectral and multispectral imaging.
