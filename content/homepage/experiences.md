@@ -36,7 +36,7 @@ experiences:
     organization:
       name: Posterlounge GmbH
       url: https://check24.de
-    dates: '09/2017 - 03/2020'
+    dates: '09/2017 - 03/2018'
     location: Leipzig, Germany
     writeup: >
       - **Portal for customer returns**
