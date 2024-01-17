@@ -46,13 +46,11 @@ widget:
 
 ## About me
 
-Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. Currently, I am delighted to be working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the Leipzig University</a>. My primary focus involves analyzing hyperspectral data and developing an algorithm to classify seeds.
-
-If you&#39;re curious to learn more about me and the exciting projects I&#39;m involved in, feel free to explore the information below. If you&#39;d like to get in touch, simply click the <a href="mailto:max.kukushkin@proton.me">here</a> provided. I look forward to connecting with you!</p>
+Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. Currently, I am delighted to be working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the Leipzig University</a>. My primary focus involves analyzing hyperspectral data and developing an algorithm to classify different species of seeds.
 
 
 ## Research interests
 
-My research centers on computer vision with a specialization in hyperspectral imaging. Specifically, I am interested in various aspects such as classification, anomaly detection, and morphological networks.
+My research centers on computer vision with a specialization in hyperspectral imaging. Specifically, I am interested in various aspects of classification, anomaly detection, and morphological networks for hyperspectral and multispectral imaging.
 
 <br><small> #computer_vision #hyperspectral_imaging #classification #anomaly_detection #tensorflow #pytorch #deep_learning</small>
