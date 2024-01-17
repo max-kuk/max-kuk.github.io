@@ -13,7 +13,7 @@ series:
 date: '2021-04-18'
 lastmod: '2023-07-27'
 featuredImage: images/ryanair.jpg
-draft: false
+draft: true
 ---
 In this blog series, we&#39;ll discuss how to use machine learning to predict the price of travel itineraries.
 
@@ -36,21 +36,21 @@ Considering all of these factors can help improve the accuracy of predicting fli
 <details>
   <summary>Overview of features</summary>
 
-| Feature name                                            | Description                                               | Source                                                       |
-| ------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------ |
-| fr_price                                                | *float*, price of ryanair flight on observation date (ts) |                                                              |
-| days_until_departure                                    | *int*                                                     | = observation date (ts) - departure date                     |
-| day_of_week                                             | *int*, encoded as 0-6                                     |                                                              |
-| year                                                    | *int,* 2018-2020                                          |                                                              |
-| month                                                   | *int*, 1-12                                               |                                                              |
-| day                                                     | *int*, 1-31                                               |                                                              |
-| weekend                                                 | *boolean*, 0 or 1                                         |                                                              |
+| Feature name                                            | Description                                               | Source                                                                                                                  |
+| ------------------------------------------------------- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| fr_price                                                | *float*, price of ryanair flight on observation date (ts) |                                                                                                                         |
+| days_until_departure                                    | *int*                                                     | = observation date (ts) - departure date                                                                                |
+| day_of_week                                             | *int*, encoded as 0-6                                     |                                                                                                                         |
+| year                                                    | *int,* 2018-2020                                          |                                                                                                                         |
+| month                                                   | *int*, 1-12                                               |                                                                                                                         |
+| day                                                     | *int*, 1-31                                               |                                                                                                                         |
+| weekend                                                 | *boolean*, 0 or 1                                         |                                                                                                                         |
 | holiday                                                 | *boolean*, 0 or 1                                         | [public holiday calendar](https://www.schulferien.org/Kalender_mit_Ferien/kalender_2021_ferien_Berlin.html) (in German) |
-| school vacation                                         | *boolean*, 0 or 1                                         | [calendar of school vacation](https://www.schulferien.org/Berlin/berlin.html) (in German) |
-| event                                                   | *boolean*, 0 or 1                                         | Calendar of UEFA Champion League  games and etc.             |
-| HHI (monthly)                                           | *float*                                                   | [flightstats](flightstats.com) (with subscription)           |
-| crude oil (monthly)                                     | *float*                                                   | [quandl.com](quandl.com)                                     |
-| temprerature features (e.g. avg_temp_bcn, avg_temp_ber) | *float*                                                   | [wunderground.com](wunderground.com)                         |
+| school vacation                                         | *boolean*, 0 or 1                                         | [calendar of school vacation](https://www.schulferien.org/Berlin/berlin.html) (in German)                               |
+| event                                                   | *boolean*, 0 or 1                                         | Calendar of UEFA Champion League  games and etc.                                                                        |
+| HHI (monthly)                                           | *float*                                                   | [flightstats](flightstats.com) (with subscription)                                                                      |
+| crude oil (monthly)                                     | *float*                                                   | [quandl.com](quandl.com)                                                                                                |
+| temprerature features (e.g. avg_temp_bcn, avg_temp_ber) | *float*                                                   | [wunderground.com](wunderground.com)                                                                                    |
 
 </details>
 
