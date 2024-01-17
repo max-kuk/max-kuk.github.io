@@ -10,7 +10,7 @@ experiences:
     location: Leipzig, Germany
     writeup: >
       - Practicing  CV & DL on hyperspectral images.  <a href="https://nmi.informatik.uni-leipzig.de/ml-group/workgroup/klassifikation-und-sortierung-von-pflanzensamen/" target="_blank">Link</a> to the project.
-        <br><small>python, tensorflow, spectral</small>
+
 
   - title: Working Student Data Science / Backend Developer
     organization:
@@ -21,16 +21,12 @@ experiences:
     writeup: >
       - **Hotel Matching System**
         - Automatic hotel matching based on the descriptions of various hotel providers
-          <br><small>python, scikit-learn, pandas, regex</small>
-
 
       - **Automatic hotel image classification system**
         - Integration of external providers via provided API into the existing IT architecture
-          <br><small>python, tensorflow, docker</small>
 
       - **Integration & maintenance of new APIs**
         - Classification of hotel images into different categories using transfer learning
-          <br><small>php, zend_framework, laminas, mySQL, git</small>
 
   - title: Internship Web-Developer
     organization:
@@ -41,7 +37,6 @@ experiences:
     writeup: >
       - **Portal for customer returns**
         - Design and development of a customer returns portal where customers initiate and process their returns
-          <br><small>html, css, php, mySQL, git, jQuery, smarty</small>
 
 
 weight: 3
