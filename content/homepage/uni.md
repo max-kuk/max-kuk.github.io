@@ -26,7 +26,7 @@ experiences:
 
 weight: 2
 widget:
-  handler: about
+  handler: experiences
 
   # Options: sm, md, lg and xl. Default is md.
   width: lg
