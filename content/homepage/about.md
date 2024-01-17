@@ -52,5 +52,3 @@ Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de
 ## Research interests
 
 My research centers on computer vision with a specialization in hyperspectral imaging. Specifically, I am interested in various aspects of classification, anomaly detection, and morphological networks for hyperspectral and multispectral imaging.
-
-<br><small> #computer_vision #hyperspectral_imaging #classification #anomaly_detection #tensorflow #pytorch #deep_learning</small>
