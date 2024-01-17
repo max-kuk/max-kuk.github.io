@@ -5,8 +5,8 @@ role: Research Assistant
 avatar: images/icon.png
 bio:
 organization:
-  name: Machine Learning Group, Leipzig University
-  url: https://www.uni-leipzig.de/en
+  name: Dept. Neuromorphic information processing, Leipzig University
+  url: https://nmi.informatik.uni-leipzig.de/ml-group/
 social:
   - icon: envelope
     iconPack: fas
@@ -46,8 +46,7 @@ widget:
 
 ## About me
 
-Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. Currently, I am delighted to be working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the Leipzig University</a>. My primary focus involves analyzing hyperspectral data and developing an algorithm to classify different species of seeds.
-
+Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>.I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department, Leipzig University. My primary focus is on analyzing hyperspectral data and developing algorithms for the classification of various seed species.
 
 ## Research interests
 

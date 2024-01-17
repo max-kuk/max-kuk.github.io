@@ -5,11 +5,11 @@ experiences:
   - title: Research Assistant
     organization:
       name: Leipzig University
-      url: https://www.uni-leipzig.de/en/
+      url: https://nmi.informatik.uni-leipzig.de/ml-group/
     dates: '08/2021 - Present'
     location: Leipzig, Germany
     writeup: >
-      - Practice CV & DL on hyperspectral images
+      - Practicing  CV & DL on hyperspectral images
         <br><small>#python #tensorflow #spectral</small>
 
   - title: Working Student Data Science / Backend Developer
