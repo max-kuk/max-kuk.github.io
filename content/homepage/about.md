@@ -44,7 +44,7 @@ widget:
 ---
 
 
-## Self Introduction
+## About me
 
 Salut! I&#39;m Maksim Kukushkin, a graduate from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. Currently, I am delighted to be working as a research assistant in the <a href="https://nmi.informatik.uni-leipzig.de/ml-group/">Machine Learning Group at the Leipzig University</a>. My primary focus involves analyzing hyperspectral data and developing an algorithm to classify seeds.
 

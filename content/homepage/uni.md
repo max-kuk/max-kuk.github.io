@@ -2,36 +2,26 @@
 title: University
 draft: false
 experiences:
-  - title: M.Sc. Computer Science
+  - title: M.Sc. Computer Science (Semester Abroad)
     organization:
       name: Università degli Studi di Milano
       url: https://www.unimi.it/en
-    dates: '09.2021 - 03.2022'
+    dates: '09/2021 - 03/2022'
     location: Milan, Italy
-    writeup: >
-      - Practice CV & DL on hyperspectral images
-        <br><small>#python #tensorflow #spectral</small>
 
   - title: M.Sc. Business Information Systems
     organization:
       name: Leipzig University
       url: https://www.uni-leipzig.de/en/
-    dates: '04/2017 - 10/2020'
+    dates: '10/2018 - 10/2021'
     location: Leipzig, Germany
-    writeup: >
-      - **Hotel Matching System**
-        - Automatic hotel matching based on the descriptions of various hotel providers
-          <br><small>#python #scikit-learn #pandas #regex</small>
+
   - title: B.Sc. Business Information Systems
     organization:
       name: Leipzig University
       url: https://www.uni-leipzig.de/en/
-    dates: '04/2017 - 10/2020'
+    dates: '10/2014 - 09/2018'
     location: Leipzig, Germany
-    writeup: >
-      - **Portal for customer returns**
-        - Design and development of a customer returns portal where customers initiate and process their returns
-          <br><small>#html #css #php #mySQL #git #jQuery #smarty</small>
 
 
 weight: 3
@@ -49,7 +39,7 @@ widget:
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: secondary
+    color: tertiary
     image:
     # Options: auto, cover and contain. Default is auto.
     size:
