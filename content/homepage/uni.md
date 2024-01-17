@@ -29,7 +29,7 @@ widget:
   handler: experiences
 
   # Options: sm, md, lg and xl. Default is md.
-  width: lg
+  width: xl
 
   sidebar:
     # Options: left and right. Leave blank to hide.
