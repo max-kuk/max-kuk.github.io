@@ -9,7 +9,7 @@ experiences:
     dates: '08/2021 - Present'
     location: Leipzig, Germany
     writeup: >
-      - Practicing  CV & DL on hyperspectral images. Link to the project: <a href="https://nmi.informatik.uni-leipzig.de/ml-group/workgroup/klassifikation-und-sortierung-von-pflanzensamen/" target="_blank">Classification and sorting of plant seeds</a>
+      - Practicing  CV & DL on hyperspectral images.  <a href="https://nmi.informatik.uni-leipzig.de/ml-group/workgroup/klassifikation-und-sortierung-von-pflanzensamen/" target="_blank">Link</a> to the project.
         <br><small>python, tensorflow, spectral</small>
 
   - title: Working Student Data Science / Backend Developer

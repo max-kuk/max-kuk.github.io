@@ -1,7 +1,7 @@
 
 ---
 title: Publications
-weight: 4
+weight: 5
 widget:
   handler: about
 
