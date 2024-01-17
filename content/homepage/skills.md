@@ -3,7 +3,7 @@
 title: Skills
 weight: 4
 widget:
-  handler: blank
+  handler: about
 
   # Options: sm, md, lg and xl. Default is md.
   width: md
@@ -27,7 +27,6 @@ widget:
 
 ---
 
-## Skills
 
 - **Programming Languages**
   - Python, PHP, R, SQL, HTML, CSS, Bash.
