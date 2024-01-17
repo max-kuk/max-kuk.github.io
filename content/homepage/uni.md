@@ -24,7 +24,7 @@ experiences:
     location: Leipzig, Germany
 
 
-weight: 3
+weight: 2
 widget:
   handler: experiences
 

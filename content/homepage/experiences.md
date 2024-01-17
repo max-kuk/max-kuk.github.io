@@ -44,7 +44,7 @@ experiences:
           <br><small>#html #css #php #mySQL #git #jQuery #smarty</small>
 
 
-weight: 3
+weight: 4
 widget:
   handler: experiences
 
