@@ -30,7 +30,7 @@ widget:
 - **Programming Languages**
   - Python, PHP, R, SQL, HTML, CSS, Bash.
 - **Frameworks & Libraries**
-  - TensorFlow, Keras, PyTorch, scikit-learn, pandas, numpy, matplotlib, seaborn, spectral, OpenCV, Flask, Zend Framework, Laminas, jQuery, Smarty
+  - TensorFlow, Keras, PyTorch, scikit-learn, pandas, numpy, matplotlib, seaborn, spectral, OpenCV, CatBoost, Flask, Zend Framework, Laminas, jQuery, Smarty
 - **Tools & Platforms**
 - Docker, Git, Jira, Confluence, Linux, Windows, macOS, Apache, mySQL, AWS.
   
