@@ -33,5 +33,5 @@ widget:
 - **Frameworks & Libraries**
   - TensorFlow, Keras, PyTorch, scikit-learn, pandas, numpy, matplotlib, seaborn, spectral, OpenCV, CatBoost, Flask, Zend Framework, Laminas, jQuery, Smarty
 - **Tools & Platforms**
-  - Docker, Git, Jira, Confluence, Linux, Windows, macOS, Apache, mySQL, AWS.
+  - Docker, Git, Jira, Confluence, Linux, Windows, macOS, Apache Web Server, mySQL, AWS.
   
