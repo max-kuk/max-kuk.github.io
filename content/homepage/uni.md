@@ -33,7 +33,7 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position: right
+    position: left
     # Options: sm, md, lg and xl. Default is md.
     scale: sm
 
