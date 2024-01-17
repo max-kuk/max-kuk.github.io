@@ -33,9 +33,9 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    #position: right
+    position: right
     # Options: sm, md, lg and xl. Default is md.
-    scale:
+    scale: sm
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
