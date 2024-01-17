@@ -1,41 +1,31 @@
 ---
-title: Experiences
+title: University
 draft: false
 experiences:
-  - title: Research Assistant
+  - title: M.Sc. Computer Science
     organization:
-      name: Leipzig University
+      name: Università degli Studi di Milano
       url: https://www.uni-leipzig.de/en/
-    dates: '08/2021 - Present'
-    location: Leipzig, Germany
+    dates: '09.2021 - 03.2022'
+    location: Milan, Italy
     writeup: >
       - Practice CV & DL on hyperspectral images
         <br><small>#python #tensorflow #spectral</small>
 
-  - title: Working Student Data Science / Backend Developer
+  - title: M.Sc. Business Information Systems
     organization:
-      name: CHECK24 Reise GmbH
-      url: https://check24.de
+      name: Leipzig University
+      url: https://www.uni-leipzig.de/en/
     dates: '04/2017 - 10/2020'
     location: Leipzig, Germany
     writeup: >
       - **Hotel Matching System**
         - Automatic hotel matching based on the descriptions of various hotel providers
           <br><small>#python #scikit-learn #pandas #regex</small>
-
-
-      - **Automatic hotel image classification system**
-        - Integration of external providers via provided API into the existing IT architecture
-          <br><small>#python #tensorflow #docker</small>
-
-      - **Integration & maintenance of new APIs**
-        - Classification of hotel images into different categories using transfer learning
-          <br><small>#php #zend_framework #laminas #mySQL #git</small>
-
-  - title: Internship Web-Developer
+  - title: B.Sc. Business Information Systems
     organization:
-      name: Posterlounge GmbH
-      url: https://check24.de
+      name: Leipzig University
+      url: https://www.uni-leipzig.de/en/
     dates: '09/2017 - 03/2020'
     location: Leipzig, Germany
     writeup: >
@@ -53,7 +43,7 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position: left
+    position: right
     # Options: sm, md, lg and xl. Default is md.
     scale:
 
