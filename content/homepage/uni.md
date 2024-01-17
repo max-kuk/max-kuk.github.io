@@ -5,7 +5,7 @@ experiences:
   - title: M.Sc. Computer Science
     organization:
       name: Università degli Studi di Milano
-      url: https://www.uni-leipzig.de/en/
+      url: https://www.unimi.it/en
     dates: '09.2021 - 03.2022'
     location: Milan, Italy
     writeup: >
@@ -26,7 +26,7 @@ experiences:
     organization:
       name: Leipzig University
       url: https://www.uni-leipzig.de/en/
-    dates: '09/2017 - 03/2020'
+    dates: '04/2017 - 10/2020'
     location: Leipzig, Germany
     writeup: >
       - **Portal for customer returns**
@@ -43,13 +43,13 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position: right
+    #position: right
     # Options: sm, md, lg and xl. Default is md.
     scale:
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color:
+    color: secondary
     image:
     # Options: auto, cover and contain. Default is auto.
     size:
