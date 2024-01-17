@@ -1,5 +1,5 @@
 ---
-title: Work Experiences
+title: Work Experience
 draft: false
 experiences:
   - title: Research Assistant
@@ -21,16 +21,16 @@ experiences:
     writeup: >
       - **Hotel Matching System**
         - Automatic hotel matching based on the descriptions of various hotel providers
-          <br><small>#python #scikit-learn #pandas #regex</small>
+          <br><small>python, scikit-learn, pandas, regex</small>
 
 
       - **Automatic hotel image classification system**
         - Integration of external providers via provided API into the existing IT architecture
-          <br><small>#python #tensorflow #docker</small>
+          <br><small>python, tensorflow, docker</small>
 
       - **Integration & maintenance of new APIs**
         - Classification of hotel images into different categories using transfer learning
-          <br><small>#php #zend_framework #laminas #mySQL #git</small>
+          <br><small>php, zend_framework, laminas, mySQL, git</small>
 
   - title: Internship Web-Developer
     organization:
@@ -41,7 +41,7 @@ experiences:
     writeup: >
       - **Portal for customer returns**
         - Design and development of a customer returns portal where customers initiate and process their returns
-          <br><small>#html #css #php #mySQL #git #jQuery #smarty</small>
+          <br><small>html, css, php, mySQL, git, jQuery, smarty</small>
 
 
 weight: 3

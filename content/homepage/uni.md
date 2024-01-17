@@ -2,21 +2,21 @@
 title: Education
 draft: false
 experiences:
-  - title: M.Sc. Computer Science (Semester Abroad)
+  - title: M. Sc. Computer Science (Semester Abroad)
     organization:
       name: Università degli Studi di Milano
       url: https://www.unimi.it/en
     dates: '09/2021 - 03/2022'
     location: Milan, Italy
 
-  - title: M.Sc. Business Information Systems
+  - title: M. Sc. Business Information Systems
     organization:
       name: Leipzig University
       url: https://www.uni-leipzig.de/en/
     dates: '10/2018 - 10/2021'
     location: Leipzig, Germany
 
-  - title: B.Sc. Business Information Systems
+  - title: B. Sc. Business Information Systems
     organization:
       name: Leipzig University
       url: https://www.uni-leipzig.de/en/
