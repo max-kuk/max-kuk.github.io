@@ -18,7 +18,7 @@ social:
     iconPack: fab
     url: https://github.com/max-kuk
   - icon: file-pdf
-  - iconPack: fab
+    iconPack: fab
     url: https://drive.proton.me/urls/XSABW40DHM#m2ouqyc5sGpm
 
 weight: 1
