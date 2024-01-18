@@ -2,6 +2,12 @@
 title: Education
 draft: false
 experiences:
+  - title: Ph. D. Student in Computer Science
+    organization:
+      name: Leipzig University
+      url: https://www.uni-leipzig.de/en/
+    dates: '08/2022 - present'
+    location: Leipzig, Germany
   - title: M. Sc. Computer Science (Semester Abroad)
     organization:
       name: Università degli Studi di Milano
