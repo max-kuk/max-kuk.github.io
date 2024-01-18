@@ -17,7 +17,7 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/max-kuk
-  - icon: file-user
+  - icon: file-pdf
   - iconPack: fab
     url: https://drive.proton.me/urls/XSABW40DHM#m2ouqyc5sGpm
 
@@ -53,4 +53,4 @@ Salut! I&#39;m Maksim Kukushkin, a graduated from <a href="https://uni-leipzig.d
 
 ## Research Interests
 
-My research centers on computer vision with a specialization in hyperspectral imaging. Specifically, I am interested in various aspects of classification, anomaly detection, and morphological networks for hyperspectral and multispectral imaging.
+My research focuses on computer vision with a specialization in hyperspectral imaging. Specifically, I am interested in various aspects of classification, anomaly detection, and morphological networks for hyperspectral and multispectral imaging.
