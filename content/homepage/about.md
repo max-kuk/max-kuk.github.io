@@ -17,6 +17,9 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/max-kuk
+  - icon: cv
+  - iconPack: fab
+    url: https://drive.proton.me/urls/XSABW40DHM#m2ouqyc5sGpm
 
 weight: 1
 widget:
@@ -46,7 +49,7 @@ widget:
 
 ## About Me
 
-Salut! I&#39;m Maksim Kukushkin, a graduated from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department of Leipzig University. Currently, I am working on analyzing hyperspectral data and developing algorithms for classification of various seed species.
+Salut! I&#39;m Maksim Kukushkin, a graduated from <a href="https://uni-leipzig.de/en/">Leipzig University</a>. I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department of Leipzig University. Currently, I am working on analysing hyperspectral data and developing algorithms for classification of various seed species. <a href="https://drive.proton.me/urls/XSABW40DHM#m2ouqyc5sGpm">Here</a> you can find my CV.
 
 ## Research Interests
 
