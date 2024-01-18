@@ -16,8 +16,8 @@ widget:
 
   background:
     # Options: primary, secondary, tertiary or any valid color value. Default is primary.
-    color: secondary
-    image:
+    color: 
+    image: images/hero-left.jpg
     # Options: auto, cover and contain. Default is auto.
     size: auto
     # Options: center, top, right, bottom, left.
