@@ -17,7 +17,7 @@ social:
   - icon: github
     iconPack: fab
     url: https://github.com/max-kuk
-  - icon: cv
+  - icon: file-user
   - iconPack: fab
     url: https://drive.proton.me/urls/XSABW40DHM#m2ouqyc5sGpm
 
