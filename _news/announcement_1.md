@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper "BiCAE - A Bimodal Convolutional Autoencoder for Seed Purity Testing" has been accepted to ECML-PKDD 2024 in Vilnius, Lithuania.
+Our paper "BiCAE - A Bimodal Convolutional Autoencoder for Seed Purity Testing" has been accepted to <a href='https://ecmlpkdd.org/2024/'>ECML-PKDD 2024</a> in Vilnius, Lithuania.

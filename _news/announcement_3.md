@@ -6,5 +6,5 @@ inline: true
 related_posts: false
 ---
 
-Our paper "BiMAE - A Bimodal Masked Autoencoder Architecture for Single-Label Hyperspectral Image Classification" has been accepted to CVPR 20th IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS) 2024 in Seattle, USA.
+Our paper "BiMAE - A Bimodal Masked Autoencoder Architecture for Single-Label Hyperspectral Image Classification" has been accepted to <a href='https://pbvs-workshop.github.io'>CVPR 20th IEEE Workshop on Perception Beyond the Visible Spectrum (PBVS) 2024</a> in Seattle, USA.
 
