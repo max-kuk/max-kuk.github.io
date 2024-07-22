@@ -66,34 +66,6 @@
       "issuer": "Stanford University",
       "url": "https://example.com",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [
@@ -121,16 +93,52 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Programming Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "PHP",
+        "R",
+        "SQL",
+        "HTML",
+        "CSS",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "TensorFlow",
+        "Keras",
+        "PyTorch",
+        "scikit-learn",
+        "pandas",
+        "numpy",
+        "matplotlib",
+        "seaborn",
+        "spectral",
+        "OpenCV",
+        "CatBoost",
+        "Flask",
+        "Zend Framework",
+        "Laminas"
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Docker",
+        "Git",
+        "Jira",
+        "Confluence",
+        "Linux",
+        "Windows",
+        "macOS",
+        "Apache Web Server",
+        "mySQL",
+        "AWS"
       ]
     }
   ],
@@ -158,7 +166,7 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Computer Vision",
@@ -170,15 +178,14 @@
   ],
   "projects": [
     {
-      "name": "KIRa Project",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "KI-gestützte Plattform zur Klassifikation und Sortierung von Pflanzensamen: Bewertung der Saatgutreinheit am Musterfall Raps",
+      "summary": "Im Vorhaben „KIRa – KI-gestützte Plattform zur Klassifikation und Sortierung von Pflanzensamen: Bewertung der Saatgutreinheit am Musterfall Raps“ werden modernste Methoden maschinellen Lernens und eine robotische Sensorik- und Sortierlösung erforscht, als Plattform kombiniert und als „lernende Maschine“ iterativ erweitert. Durch diese Plattform, den KIRa-Sorter, werden wir die gesetzlich vorgeschriebene Reinheitsuntersuchung in der Saatgutproduktion als wichtigen Teil der Landwirtschaft automatisieren, digitalisieren und als kooperativen Prozess zwischen Nutzern und KI entwickeln. Somit werden wir die Effizienz gegenüber der manuell ausgeführten Untersuchung erheblich steigern und die Qualität und insbesondere die Reinheit von Saatgut verbessern. Der entstehende KIRa-Sorter könnte somit perspektivisch ein Produkt mit hohem Potential für die wirtschaftliche Verwertung darstellen, wobei auch die einzelnen Komponenten und deren Erforschung und Entwicklung innovative wissenschaftliche Ergebnisse erbringen werden.",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "Hyperspectral Imaging",
+        "Computer Vision"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2021-08-01",
+      "url": "https://www.npz-innovation.de/projectKIRA.html"
     }
   ]
 }
