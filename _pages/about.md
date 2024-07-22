@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Research Assistant @ <a href='https://www.uni-leipzig.de'>Leipzig University</a> and <a href='https://www.uni-halle.de'> Martin-Luther-University Halle-Wittenberg </a>
+subtitle: Research Assistant @<a href='https://www.uni-leipzig.de'>Leipzig University</a> and <a href='https://www.uni-halle.de'> Martin-Luther-University Halle-Wittenberg </a>
 
 profile:
   align: right
@@ -15,7 +15,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Salut! I'm Maksim Kukushkin, a graduated from Leipzig University. I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department of Leipzig University. Currently, I am working on analysing hyperspectral data and developing algorithms for classification of various seed species. Here you can find my CV.
