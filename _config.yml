@@ -9,14 +9,10 @@ last_name: Kukushkin
 email: kukushkin@informatik.uni-leipzig.de
 description: > 
   Computer Vision Researcher at University of Leipzig
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
+footer_text: #
 keywords: computer vision, machine learning, deep learning, research, university of leipzig, leipzig, germany
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 📚 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
+icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://max-kuk.github.io # the base hostname & protocol for your site
 baseurl: # /al-folio # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
@@ -41,7 +37,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: faöse
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -339,8 +335,8 @@ scholar:
 # Display different badges withs stats for your publications
 # Customize badge behavior in _layouts/bib.liquid
 enable_publication_badges:
-  altmetric: true # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
-  dimensions: true # Dimensions badge (Customization options: https://badge.dimensions.ai/)
+  altmetric: false # Altmetric badge (Customization options: https://badge-docs.altmetric.com/index.html)
+  dimensions: false # Dimensions badge (Customization options: https://badge.dimensions.ai/)
   google_scholar: true # Google Scholar badge (https://scholar.google.com/intl/en/scholar/citations.html)
 
 # Filter out certain bibtex entry keywords used internally from the bib output
