@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.uni-leipzig.de/en'>Leipzig University</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Leipzig University</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
