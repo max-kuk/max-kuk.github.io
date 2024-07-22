@@ -18,4 +18,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Salut! I'm Maksim Kukushkin, a graduated from Leipzig University. I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department of Leipzig University. Currently, I am working on analysing hyperspectral data and developing algorithms for classification of various seed species. Here you can find my CV.
+Salut! I'm Maksim Kukushkin, a graduated from Leipzig University. I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department of Leipzig University. Currently, I am working on analysing hyperspectral data and developing algorithms for classification of various seed species.
