@@ -9,14 +9,16 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>P518</p>
+    <p>Augustusplatz 10</p>
+    <p>DE-04109, Leipzig</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+
+Salut! I'm Maksim Kukushkin, a graduated from Leipzig University. I am delighted to be working as a Research Assistant in the Machine Learning Group at the Neuromorphic Information Processing Department of Leipzig University. Currently, I am working on analysing hyperspectral data and developing algorithms for classification of various seed species. Here you can find my CV.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
