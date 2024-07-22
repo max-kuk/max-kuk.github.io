@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper Accepted @<a href='https://www.ecmlpkdd2024.org'>ECML-PKDD 2024</a>
+title: Paper Accepted @<a href='https://ecmlpkdd.org/2024/'>ECML-PKDD 2024</a>
 date: 2024-05-27 12:00:00-0400
 inline: true
 related_posts: false
