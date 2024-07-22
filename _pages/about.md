@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Leipzig University</a>. Address. Contacts. Moto. Etc.
+subtitle: Research Assistant @ <a href='https://www.uni-leipzig.de'>Leipzig University</a> and <a href='https://www.uni-halle.de'> Martin-Luther-University Halle-Wittenberg </a>
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>P518</p>
+    <p>P518 (Paulinum)</p>
     <p>Augustusplatz 10</p>
-    <p>DE-04109, Leipzig</p>
+    <p>DE-04109, Leipzig, Germany</p>
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
