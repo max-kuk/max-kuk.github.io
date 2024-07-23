@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Assistant @<a href='https://www.uni-leipzig.de'>Leipzig University</a> and <a href='https://www.uni-halle.de'> Martin-Luther-University Halle-Wittenberg </a>
 
