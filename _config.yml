@@ -8,9 +8,9 @@ middle_name:
 last_name: Kukushkin
 email: maksim.kukushkin@medizin.uni-halle.de
 description: > 
-  Computer Vision Researcher at University of Leipzig
+  PhD Candidate at Leipzig University
 footer_text: #
-keywords: computer vision, machine learning, deep learning, research, university of leipzig, leipzig, germany
+keywords: computer vision, machine learning, deep learning, research, leipzig university, leipzig, halle, halle university, germany
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: icon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 url: https://max-kuk.github.io # the base hostname & protocol for your site

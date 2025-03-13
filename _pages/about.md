@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD Student @<a href='https://www.uni-leipzig.de'>Leipzig University</a> and Research Assistant @<a href='https://www.uni-halle.de'> Martin-Luther-University Halle-Wittenberg </a>
+subtitle: PhD Candidate @<a href='https://www.uni-leipzig.de'>Leipzig University</a> and Research Assistant @<a href='https://www.uni-halle.de'> Martin Luther University Halle-Wittenberg </a>
 
 profile:
   align: right
