@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Maksim Kukushkin",
-    "email": "{lastname}@informatik.uni-leipzig.de",
+    "email": "{firstname}.{lastname}@medizin.uni-halle.de",
     "url": "https://nmi.informatik.uni-leipzig.de/ml-group/staff/maksim-kukushkin/",
     "location": {
-      "address": "Augustusplatz 10",
-      "postalCode": "DE-04109",
-      "city": "Leipzig",
+      "address": "Magdeburger Str. 8",
+      "postalCode": "DE-06112",
+      "city": "Halle (Saale)",
       "countryCode": "DE",
       "region": "Saxony"
     }
