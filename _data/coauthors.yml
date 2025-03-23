@@ -1,34 +1,32 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Otto":
+  - firstname: ["Otto Brooks"]
+    url: https://obrookes.github.io
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Martin":
+  - firstname: ["Martin Bogdan"]
+    url: https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Thomas":
+  - firstname: ["Thomas Schmid"]
+    url: https://nmi.informatik.uni-leipzig.de/ml-group/staff/thomas-schmid/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Tilo":
+  - firstname: ["Tilo Burghardt"]
+    url: http://people.cs.bris.ac.uk/~burghard/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Majid":
+  - firstname: ["Majid Mirmehdi"]
+    url: https://majidmirmehdi.github.io/
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Maksim":
+  - firstname: ["Maksim Kholiavchenko"]
+    url: https://orcid.org/0000-0001-6757-1957
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Johannes":
+  - firstname: ["Johannes Fiedler"]
+    url: https://www.hsbi.de/personenverzeichnis/johannes-fiedler
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Reinhard":
+  - firstname: ["Reinhard Kaschuba"]
+    url: https://www.hsbi.de/personenverzeichnis/reinhard-kaschuba
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
