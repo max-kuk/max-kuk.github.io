@@ -1,21 +1,21 @@
 "brooks":
-  - firstname: ["Otto Brooks", "Brooks"]
+  - firstname: ["Otto"]
     url: https://obrookes.github.io
 
 "bogdan":
-  - firstname: ["Martin Bogdan", "Prof. Dr. Martin Bogdan", "Bogdan"]
+  - firstname: ["Martin"]
     url: https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/
 
 "schmid":
-  - firstname: ["Thomas Schmid", "Jun. Prof. Dr. Thomas Schmid", "Schmid"]
+  - firstname: ["Thomas"]
     url: https://nmi.informatik.uni-leipzig.de/ml-group/staff/thomas-schmid/
 
 "burghardt":
-  - firstname: ["Tilo Burghardt", "Burghardt"]
+  - firstname: ["Tilo"]
     url: http://people.cs.bris.ac.uk/~burghard/
 
 "mirmehdi":
-  - firstname: ["Majid Mirmehdi", "Mirmehdi"]
+  - firstname: ["Majid"]
     url: https://majidmirmehdi.github.io/
 
 "kholiavchenko":
