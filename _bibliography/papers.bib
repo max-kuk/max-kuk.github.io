@@ -31,6 +31,7 @@
   abstract={Computer vision analysis of camera trap video footage is essential for wildlife conservation, as captured behaviours offer some of the earliest indicators of changes in population health. Recently, several high-impact animal behaviour datasets and methods have been introduced to encourage their use; however, the role of behaviour-correlated background information and its significant effect on out-of-distribution generalisation remain unexplored. In response, we present the PanAf-FGBG dataset, featuring 20 hours of wild chimpanzee behaviours, recorded at over 350 individual camera locations. Uniquely, it pairs every video with a chimpanzee (referred to as a foreground video) with a corresponding background video (with no chimpanzee) from the same camera location. We present two views of the dataset: one with overlapping camera locations and one with disjoint locations. This setup enables, for the first time, direct evaluation of in-distribution and out-of-distribution conditions, and for the impact of backgrounds on behaviour recognition models to be quantified. All clips come with rich behavioural annotations and metadata including unique camera IDs and detailed textual scene descriptions. Additionally, we establish several baselines and present a highly effective latent-space normalisation technique that boosts out-of-distribution performance by +5.42% mAP for convolutional and +3.75% mAP for transformer-based models. Finally, we provide an in-depth analysis on the role of backgrounds in out-of-distribution behaviour recognition, including the so far unexplored impact of background durations (i.e., the count of background frames within foreground videos).},
   website = {https://obrookes.github.io/panaf-fgbg.github.io/},
   annotation={* Equal technical contribution},
+  abbr = {CVPR},
 }
 
 @inproceedings{Kukushkin2021,
@@ -75,7 +76,8 @@
   html = {https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Kukushkin_BiMAE_-_A_Bimodal_Masked_Autoencoder_Architecture_for_Single-Label_Hyperspectral_CVPRW_2024_paper.html},
   abstract = {Hyperspectral imaging offers manifold opportunities for applications that may not, or only partially, be achieved within the visual spectrum. Our paper presents a novel approach for Single-Label Hyperspectral Image Classification, demonstrated through the example of a key challenge faced by agricultural seed producers: seed purity testing. We employ Self-Supervised Learning and Masked Image Modeling techniques to tackle this task. Recognizing the challenges and costs associated with acquiring hyperspectral data, we aim to develop a versatile method capable of working with visible, arbitrary combinations of spectral bands (multispectral data) and hyperspectral sensor data. By integrating RGB and hyperspectral data, we leverage the detailed spatial information from RGB images and the rich spectral information from hyperspectral data to enhance the accuracy of seed classification. Through evaluations in various real-life scenarios, we demonstrate the flexibility, scalability, and efficiency of our approach.},
   poster = {CVPR_2024_Poster.pdf},
-  code = {https://github.com/max-kuk/bimae_seed_classification}
+  code = {https://github.com/max-kuk/bimae_seed_classification},
+  abbr = {CVPR},
 }
 
 @inproceedings{Kukushkin2023morphological,
@@ -123,6 +125,7 @@
   selected = {true},
   poster = {https://drive.proton.me/urls/1CS8BAZ2ZM#YHmhcPfxXCqp},
   abstract = {In the seed-producing industry, accurate assessment of harvested seeds for technical purity is a necessary, yet time-consuming and labor-intensive task. Automating this task holds immense potential for enhancing agricultural seed productivity, and using computer vision methods to classify seeds has already demonstrated promising results. Here, we propose a novel spectral-enhanced image anomaly detection approach to accurately discriminate Canola seeds (Brassica napus L.) from visually similar non-Canola seeds. Our bimodal approach exploits both RGB and data captured by a hyperspectral camera of the same sample. For efficient processing of this data, we suggest a novel bimodal convolutional autoencoder (BiCAE) architecture, which combines the strengths of high spatial resolution in RGB and high spectral resolution in hyperspectral data. We demonstrate that training our BiCAE model on a Canola dataset allows to learn a joint latent representation that effectively extracts spatio-spectral information from both RGB and hyperspectral data. Experiments show promising results in differentiating between Canola and non-Canola samples, in particular in detecting various types of non-Canola seeds in previously unseen test data. The obtained results highlight the model's ability to generalize beyond the training data, surpassing unimodal models that rely solely on a single modality.},
+  abbr = {ECML-PKDD},
 }
 
 @article{Kholiavchenko2024,

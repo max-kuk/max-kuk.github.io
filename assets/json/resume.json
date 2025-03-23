@@ -92,12 +92,13 @@
       "startDate": "2021-10-01"
     },
     {
-      "institution": "University of Bristol, Bristol, United Kingdom",
+      "institution": "University of Bristol",
       "location": "Bristol, United Kingdom",
       "url": "https://www.bristol.ac.uk",
       "area": "MaVi Research Group",
       "studyType": "Ph. D. (Visiting Researcher)",
-      "startDate": "2024-06-01"
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-31"
     }
   ],
   "skills": [

@@ -1,9 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"CVPR":
+  url: https://cvpr.thecvf.com/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
-
-"Vision":
-  color: "#009f36"
+"ECML-PKDD":
+  url: https://ecmlpkdd.org/
+  color: "#00369f"
