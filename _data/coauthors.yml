@@ -1,43 +1,43 @@
-"Brooks":
+"brooks":
   - firstname: ["Otto Brooks"]
     url: https://obrookes.github.io
 
-"Bogdan":
+"bogdan":
   - firstname: ["Martin Bogdan"]
     url: https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/
 
-"Schmid":
+"schmid":
   - firstname: ["Thomas Schmid"]
     url: https://nmi.informatik.uni-leipzig.de/ml-group/staff/thomas-schmid/
 
-"Burghardt":
+"burghardt":
   - firstname: ["Tilo Burghardt"]
     url: http://people.cs.bris.ac.uk/~burghard/
 
-"Mirmehdi":
+"mirmehdi":
   - firstname: ["Majid Mirmehdi"]
     url: https://majidmirmehdi.github.io/
 
-"Kholiavchenko":
+"kholiavchenko":
   - firstname: ["Maksim Kholiavchenko"]
     url: https://orcid.org/0000-0001-6757-1957
 
-"Fiedler":
+"fiedler":
   - firstname: ["Johannes Fiedler"]
     url: https://www.hsbi.de/personenverzeichnis/johannes-fiedler
 
-"Kaschuba":
+"kaschuba":
   - firstname: ["Reinhard Kaschuba"]
     url: https://www.hsbi.de/personenverzeichnis/reinhard-kaschuba
 
-"Ntalampiras":
+"ntalampiras":
   - firstname: ["Stavros Ntalampiras"]
     url: https://sites.google.com/site/stavrosntalampiras/home
 
-"Kline":
+"kline":
   - firstname: ["Jenna Kline"]
     url: https://scholar.google.com/citations?user=bhNDuigAAAAJ&hl=en
 
-"Stewart":
+"stewart":
   - firstname: ["Charles Stewart", "Charles V. Stewart"]
     url: https://www.cs.rpi.edu/~stewart/
