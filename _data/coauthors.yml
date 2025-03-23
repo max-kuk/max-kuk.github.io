@@ -1,43 +1,43 @@
 "brooks":
-  - firstname: ["Otto Brooks"]
+  - firstname: ["Otto Brooks", "Brooks"]
     url: https://obrookes.github.io
 
 "bogdan":
-  - firstname: ["Martin Bogdan"]
+  - firstname: ["Martin Bogdan", "Prof. Dr. Martin Bogdan", "Bogdan"]
     url: https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/
 
 "schmid":
-  - firstname: ["Thomas Schmid"]
+  - firstname: ["Thomas Schmid", "Jun. Prof. Dr. Thomas Schmid", "Schmid"]
     url: https://nmi.informatik.uni-leipzig.de/ml-group/staff/thomas-schmid/
 
 "burghardt":
-  - firstname: ["Tilo Burghardt"]
+  - firstname: ["Tilo Burghardt", "Burghardt"]
     url: http://people.cs.bris.ac.uk/~burghard/
 
 "mirmehdi":
-  - firstname: ["Majid Mirmehdi"]
+  - firstname: ["Majid Mirmehdi", "Mirmehdi"]
     url: https://majidmirmehdi.github.io/
 
 "kholiavchenko":
-  - firstname: ["Maksim Kholiavchenko"]
+  - firstname: ["Maksim Kholiavchenko", "Kholiavchenko"]
     url: https://orcid.org/0000-0001-6757-1957
 
 "fiedler":
-  - firstname: ["Johannes Fiedler"]
+  - firstname: ["Johannes Fiedler", "Fiedler"]
     url: https://www.hsbi.de/personenverzeichnis/johannes-fiedler
 
 "kaschuba":
-  - firstname: ["Reinhard Kaschuba"]
+  - firstname: ["Reinhard Kaschuba", "Kaschuba"]
     url: https://www.hsbi.de/personenverzeichnis/reinhard-kaschuba
 
 "ntalampiras":
-  - firstname: ["Stavros Ntalampiras"]
+  - firstname: ["Stavros Ntalampiras", "Ntalampiras"]
     url: https://sites.google.com/site/stavrosntalampiras/home
 
 "kline":
-  - firstname: ["Jenna Kline"]
+  - firstname: ["Jenna Kline", "Kline"]
     url: https://scholar.google.com/citations?user=bhNDuigAAAAJ&hl=en
 
 "stewart":
-  - firstname: ["Charles Stewart", "Charles V. Stewart"]
+  - firstname: ["Charles Stewart", "Charles V. Stewart", "Stewart"]
     url: https://www.cs.rpi.edu/~stewart/
