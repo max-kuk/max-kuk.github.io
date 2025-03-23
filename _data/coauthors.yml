@@ -1,6 +1,6 @@
-"brooks":
+"brookes":
   - firstname: ["Otto"]
-    url: https://obrookes.github.io
+    url: https://obrookes.github.io/
 
 "bogdan":
   - firstname: ["Martin"]
@@ -19,25 +19,25 @@
     url: https://majidmirmehdi.github.io/
 
 "kholiavchenko":
-  - firstname: ["Maksim Kholiavchenko", "Kholiavchenko"]
+  - firstname: ["Maksim"]
     url: https://orcid.org/0000-0001-6757-1957
 
 "fiedler":
-  - firstname: ["Johannes Fiedler", "Fiedler"]
+  - firstname: ["Johannes"]
     url: https://www.hsbi.de/personenverzeichnis/johannes-fiedler
 
 "kaschuba":
-  - firstname: ["Reinhard Kaschuba", "Kaschuba"]
+  - firstname: ["Reinhard"]
     url: https://www.hsbi.de/personenverzeichnis/reinhard-kaschuba
 
 "ntalampiras":
-  - firstname: ["Stavros Ntalampiras", "Ntalampiras"]
+  - firstname: ["Stavros"]
     url: https://sites.google.com/site/stavrosntalampiras/home
 
 "kline":
-  - firstname: ["Jenna Kline", "Kline"]
+  - firstname: ["Jenna"]
     url: https://scholar.google.com/citations?user=bhNDuigAAAAJ&hl=en
 
 "stewart":
-  - firstname: ["Charles Stewart", "Charles V. Stewart", "Stewart"]
+  - firstname: ["Charles", "Charles V."]
     url: https://www.cs.rpi.edu/~stewart/
