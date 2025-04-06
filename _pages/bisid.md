@@ -2,7 +2,7 @@
 layout: page
 permalink: /bisid/
 title: BiSID
-nav: true
+nav: false
 description: "BiSID-5k"
 ---
 
