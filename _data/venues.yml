@@ -1,15 +1,9 @@
-"CVPR":
-  url: https://cvpr.thecvf.com/
-  color: "#1f77b4"
+"Conference":
+  color: "#0076df"
 
-"CVPRW":
-  url: https://cvpr.thecvf.com/
-  color: "#ff7f0e"
+"Workshop":
+  color: "#0076df"
 
-"ECML-PKDD":
-  url: https://ecmlpkdd.org/
-  color: "#2ca02c"
+"Journal":
+  color: "#0076df"
 
-"SPIE":
-  url: https://spie.org/conferences-and-exhibitions/photonics-west
-  color: "#d62728"
