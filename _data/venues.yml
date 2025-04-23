@@ -1,7 +1,15 @@
 "CVPR":
   url: https://cvpr.thecvf.com/
-  color: "#00369f"
+  color: "#1f77b4"
+
+"CVPRW":
+  url: https://cvpr.thecvf.com/
+  color: "#ff7f0e"
 
 "ECML-PKDD":
   url: https://ecmlpkdd.org/
-  color: "#00369f"
+  color: "#2ca02c"
+
+"SPIE":
+  url: https://spie.org/conferences-and-exhibitions/photonics-west
+  color: "#d62728"
