@@ -14,7 +14,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
 Salut! I'm Maksim Kukushkin. I am pursuing my PhD in the <a href="https://nmi.informatik.uni-leipzig.de/"> Neuromorphic Information Processing Department</a> at Leipzig University. Additionally, I work as a Research Associate in the Digital Research Methods in Medicine Group at Martin Luther University Halle-Wittenberg. My current research focuses on analysing multidimensional data—particularly hyperspectral, video, and medical data—for which I develop classification algorithms.
