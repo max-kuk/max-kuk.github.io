@@ -6,7 +6,7 @@ subtitle: PhD Candidate @<a href='https://www.uni-leipzig.de'>Leipzig University
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_web.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Magdeburger Str. 8</p>
