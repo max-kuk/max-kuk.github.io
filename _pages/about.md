@@ -8,9 +8,7 @@ profile:
   align: right
   image: prof_pic_web.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Magdeburger Str. 8</p>
-    <p>DE-06112, Halle (Saale), Germany</p>
+  more_info:
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
