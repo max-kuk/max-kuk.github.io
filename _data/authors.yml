@@ -1,0 +1,202 @@
+kukushkin:
+  first_name: Maksim
+  last_name: Kukushkin
+  website: max-kuk.github.io
+  is_me: true
+kukushkin*:
+  first_name: Maksim
+  last_name: Kukushkin*
+  website: max-kuk.github.io
+  is_me: true
+bogdan:
+  first_name: Martin
+  last_name: Bogdan
+  website: https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/
+schmid:
+  first_name: Thomas 
+  last_name: Schmid
+  website: https://nmi.informatik.uni-leipzig.de/ml-group/staff/thomas-schmid/
+brookes:
+  first_name: Otto
+  last_name: Brookes
+  website: https://obrookes.github.io/otto.github.io/
+brookes*:
+  first_name: Otto
+  last_name: Brookes*
+  website: https://obrookes.github.io/otto.github.io/
+burghardt:
+  first_name: Tilo
+  last_name: Burghardt
+  website: http://people.cs.bris.ac.uk/~burghard/
+mirmehdi:
+  first_name: Majid
+  last_name: Mirmehdi
+  website: https://majidmirmehdi.github.io/
+kholiavchenko:
+  first_name: Maksim
+  last_name: Kholiavchenko
+  website: https://orcid.org/0000-0001-6757-1957
+fiedler:
+  first_name: Johannes
+  last_name: Fiedler
+  website: https://www.hsbi.de/personenverzeichnis/johannes-fiedler
+kaschuba:
+  first_name: Reinhard
+  last_name: Kaschuba
+  website: https://www.hsbi.de/personenverzeichnis/reinhard-kaschuba
+ntalampiras:
+  first_name: Stavros
+  last_name: Ntalampiras
+  website: https://sites.google.com/site/stavrosntalampiras/home
+kline:
+  first_name: Jenna
+  last_name: Kline
+  website: https://scholar.google.com/citations?user=bhNDuigAAAAJ&hl=en
+stewart:
+  first_name: Charles
+  middle_name: V.
+  last_name: Stewart
+  website: https://www.cs.rpi.edu/~stewart/
+stephens:
+  first_name: Colleen
+  last_name: Stephens
+  website: https://scholar.google.de/citations?user=nG7QQ_UAAAAJ&hl=en
+corogenes:
+  first_name: Katherine
+  last_name: Corogenes
+  website: 
+dieguez:
+  first_name: Paula
+  last_name: Dieguez
+  website: 
+hicks:
+  first_name: Thurston
+  middle_name: C.
+  last_name: Hicks
+  website: 
+jones:
+  first_name: Sorrel
+  last_name: Jones
+  website: 
+lee:
+  first_name: Kevin
+  last_name: Lee
+  website: 
+mccarthy:
+  first_name: Maureen
+  middle_name: S.
+  last_name: McCarthy
+  website: 
+meier:
+  first_name: Amelia
+  last_name: Meier
+  website: https://scholar.google.com/citations?user=E1bXKd4AAAAJ&hl=en
+normand:
+  first_name: Emmanuelle
+  last_name: Normand
+  website: 
+wessling:
+  first_name: Erin
+  middle_name: G.
+  last_name: Wessling
+  website: 
+wittig:
+  first_name: Roman
+  middle_name: M.
+  last_name: Wittig
+  website: 
+langergraber:
+  first_name: Kevin
+  last_name: Langergraber
+  website: 
+zuberbühler:
+  first_name: Klaus
+  last_name: Zuberbühler
+  website: 
+arandjelovic:
+  first_name: Mimi
+  last_name: Arandjelovic
+  website: http://www.mimiarandjelovic.com/
+kühl:
+  first_name: Hjalmar
+  last_name: Kühl
+  website: https://scholar.google.com/citations?user=Cxh2C2oAAAAJ&hl=en
+boesch:
+  first_name: Lukas
+  last_name: Boesch
+  website: 
+
+stevens:
+  first_name: Samuel
+  last_name: Stevens
+  website: https://scholar.google.com/citations?user=uR-A0LAAAAAJ&hl=en
+duporge:
+  first_name: Isla
+  last_name: Duporge
+  website: https://scholar.google.co.uk/citations?user=oJ_KilcAAAAJ&hl=en
+
+sheets:
+  first_name: Alec
+  last_name: Sheets
+  website: https://scholar.google.com/citations?user=IjGA20kAAAAJ&hl=en
+
+babu:
+  first_name: Reshma
+  middle_name: R.
+  last_name: Babu
+  website:
+
+banerji:
+  first_name: Namrata
+  last_name: Banerji
+  website:
+
+campolongo:
+  first_name: Elizabeth
+  last_name: Campolongo
+  website: https://scholar.google.com/citations?user=GO6Y7SEAAAAJ&hl=en
+
+thompson:
+  first_name: Matthew
+  last_name: Thompson
+  website:
+
+tiel:
+  first_name: Nina
+  middle_name: Van
+  last_name: Tiel
+  website: https://scholar.google.com/citations?user=pCOoHuAAAAAJ&hl=en
+
+miliko:
+  first_name: Jackson
+  last_name: Miliko
+  website:
+
+bessa:
+  first_name: Eduardo
+  last_name: Bessa
+  website:
+berger-wolf:
+  first_name: Tanya
+  last_name: Berger-Wolf
+  website: https://scholar.google.com/citations?user=Hq28JM0AAAAJ&hl=en
+rubenstein:
+  first_name: Daniel I.
+  last_name: Rubenstein
+  website: https://scholar.google.com/citations?user=oD4QN6wAAAAJ&hl=en
+
+erichsmeier:
+  first_name: Fabian
+  last_name: Erichsmeier 
+  website: 
+
+enders:
+  first_name: Matthias
+  last_name: Enders
+  website:
+
+goertz:
+  first_name: Simon
+  last_name: Görtz
+  website: 
+

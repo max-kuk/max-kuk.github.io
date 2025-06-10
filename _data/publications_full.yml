@@ -1,0 +1,127 @@
+- id: panaffgbg
+  title: "The PanAf-FGBG Dataset: Understanding the Impact of Backgrounds in Wildlife Behaviour Recognition"
+  venue: CVPR, 2025
+  description: 
+  project_page: https://obrookes.github.io/panaf-fgbg.github.io/
+  arxiv: 
+  pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Brookes_The_PanAf-FGBG_Dataset_Understanding_the_Impact_of_Backgrounds_in_Wildlife_CVPR_2025_paper.pdf
+  image: background_neutralisation.png
+  image_mouseover: 
+  authors:
+    - brookes*
+    - kukushkin*
+    - mirmehdi
+    - stephens
+    - dieguez
+    - hicks
+    - jones
+    - lee
+    - mccarthy
+    - meier
+    - normand
+    - wessling
+    - wittig
+    - langergraber
+    - zuberbühler
+    - boesch
+    - schmid
+    - arandjelovic
+    - kühl
+    - burghardt
+  awards:
+    - "Oral Presentation"
+- id: bimae
+  title: "BiMAE-A Bimodal Masked Autoencoder Architecture for Single-Label Hyperspectral Image Classification"
+  venue: PBVS@CVPR, 2024
+  description: 
+  pdf: https://openaccess.thecvf.com/content/CVPR2024W/PBVS/papers/Kukushkin_BiMAE_-_A_Bimodal_Masked_Autoencoder_Architecture_for_Single-Label_Hyperspectral_CVPRW_2024_paper.pdf
+  image: bimae.png
+  image_mouseover: 
+  authors:
+    - kukushkin
+    - bogdan
+    - schmid
+  github: max-kuk/bimae_seed_classification
+
+- id: bicae
+  title: "BiCAE – A Bimodal Convolutional Autoencoder for Seed Purity Testing"
+  venue: ECML PKDD, 2024
+  description:
+  github: google/hypernerf
+  pdf: https://link.springer.com/chapter/10.1007/978-3-031-70381-2_28
+  image: bicae.png
+  image_mouseover: 
+  authors:
+    - kukushkin
+    - bogdan
+    - schmid
+  awards:
+    - "Oral Presentation"
+
+- id: kabr
+  title: "Deep dive into KABR: a dataset for understanding ungulate behavior from in-situ drone video"
+  venue: Multimedia Tools and Applications, 2024
+  description: 
+  project_page: "https://kabrdata.xyz"
+  github: dirtmaxim/kabr-tools
+  pdf: https://link.springer.com/article/10.1007/s11042-024-20512-4
+  image: kabr.png
+  image_mouseover: 
+  authors:
+    - kholiavchenko
+    - kline
+    - kukushkin
+    - brookes
+    - stevens
+    - duporge
+    - sheets
+    - babu
+    - banerji
+    - campolongo
+    - thompson
+    - tiel
+    - miliko
+    - bessa
+    - mirmehdi
+    - schmid
+    - berger-wolf
+    - rubenstein
+    - burghardt
+    - stewart
+  awards:
+    - "Journal Paper"
+
+
+
+
+- id: purity_analysis
+  title: "Automating the purity analysis of oilseed rape through usage of hyperspectral imaging"
+  venue: Photonics West, 2024
+  description: 
+  pdf: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12879/3002665/Automating-the-purity-analysis-of-oilseed-rape-through-usage-of/10.1117/12.3002665.short
+  image_mouseover: 
+  authors:
+    - erichsmeier
+    - kukushkin
+    - fiedler
+    - enders
+    - goertz
+    - bogdan
+    - schmid
+    - kaschuba
+
+
+- id: feline_classification
+  title: "Automatic acoustic classification of feline sex"
+  venue: Audio Mostly, 2021
+  description: 
+  pdf: https://dl.acm.org/doi/10.1145/3478384.3478385
+  image: feline_classification.png
+  image_mouseover: 
+  authors:
+    - kukushkin
+    - ntalampiras
+
+
+
+
