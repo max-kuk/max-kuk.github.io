@@ -11,3 +11,7 @@ assets/libs/
 node_modules/
 vendor
 .idea
+.github
+.devcontainer
+.prettierignore
+.pre-commit-config
