@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://max-kuk.github.io/sitemap.xml
