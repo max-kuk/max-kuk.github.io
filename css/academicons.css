@@ -5,18 +5,19 @@
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
 @font-face {
-    font-family: 'Academicons';
-    font-style: normal;
-    font-weight: 400;
-    font-display: block;
-    src:url('../fonts/academicons.eot');
-    src:url('../fonts/academicons.eot') format('embedded-opentype'),
-        url('../fonts/academicons.ttf') format('truetype'),
-        url('../fonts/academicons.woff') format('woff'),
-        url('../fonts/academicons.svg') format('svg');
+  font-family: "Academicons";
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url("../fonts/academicons.eot");
+  src:
+    url("../fonts/academicons.eot") format("embedded-opentype"),
+    url("../fonts/academicons.ttf") format("truetype"),
+    url("../fonts/academicons.woff") format("woff"),
+    url("../fonts/academicons.svg") format("svg");
 }
 .ai {
-  font-family: 'Academicons';
+  font-family: "Academicons";
   font-weight: 400;
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -439,9 +440,9 @@
   left: -1.85714286em;
 }
 .ai-border {
-  padding: .2em .25em .15em;
+  padding: 0.2em 0.25em 0.15em;
   border: solid 0.08em #eeeeee;
-  border-radius: .1em;
+  border-radius: 0.1em;
 }
 .ai-pull-left {
   float: left;
@@ -450,10 +451,10 @@
   float: right;
 }
 .ai.fa-pull-left {
-  margin-right: .3em;
+  margin-right: 0.3em;
 }
 .ai.fa-pull-right {
-  margin-left: .3em;
+  margin-left: 0.3em;
 }
 /*
  *  Repeat of the FontAwesome style classes to prevent override if academicons.css
@@ -499,9 +500,9 @@
   left: -1.85714286em;
 }
 .fa-border {
-  padding: .2em .25em .15em;
+  padding: 0.2em 0.25em 0.15em;
   border: solid 0.08em #eeeeee;
-  border-radius: .1em;
+  border-radius: 0.1em;
 }
 .fa-pull-left {
   float: left;
@@ -510,10 +511,10 @@
   float: right;
 }
 .fa.fa-pull-left {
-  margin-right: .3em;
+  margin-right: 0.3em;
 }
 .fa.fa-pull-right {
-  margin-left: .3em;
+  margin-left: 0.3em;
 }
 /*
  * Accessibility: hide text for screen readers

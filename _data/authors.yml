@@ -13,7 +13,7 @@ bogdan:
   last_name: Bogdan
   website: https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/
 schmid:
-  first_name: Thomas 
+  first_name: Thomas
   last_name: Schmid
   website: https://nmi.informatik.uni-leipzig.de/ml-group/staff/thomas-schmid/
 brookes:
@@ -64,29 +64,29 @@ stephens:
 corogenes:
   first_name: Katherine
   last_name: Corogenes
-  website: 
+  website:
 dieguez:
   first_name: Paula
   last_name: Dieguez
-  website: 
+  website:
 hicks:
   first_name: Thurston
   middle_name: C.
   last_name: Hicks
-  website: 
+  website:
 jones:
   first_name: Sorrel
   last_name: Jones
-  website: 
+  website:
 lee:
   first_name: Kevin
   last_name: Lee
-  website: 
+  website:
 mccarthy:
   first_name: Maureen
   middle_name: S.
   last_name: McCarthy
-  website: 
+  website:
 meier:
   first_name: Amelia
   last_name: Meier
@@ -94,25 +94,25 @@ meier:
 normand:
   first_name: Emmanuelle
   last_name: Normand
-  website: 
+  website:
 wessling:
   first_name: Erin
   middle_name: G.
   last_name: Wessling
-  website: 
+  website:
 wittig:
   first_name: Roman
   middle_name: M.
   last_name: Wittig
-  website: 
+  website:
 langergraber:
   first_name: Kevin
   last_name: Langergraber
-  website: 
+  website:
 zuberbühler:
   first_name: Klaus
   last_name: Zuberbühler
-  website: 
+  website:
 arandjelovic:
   first_name: Mimi
   last_name: Arandjelovic
@@ -124,7 +124,7 @@ kühl:
 boesch:
   first_name: Lukas
   last_name: Boesch
-  website: 
+  website:
 
 stevens:
   first_name: Samuel
@@ -187,8 +187,8 @@ rubenstein:
 
 erichsmeier:
   first_name: Fabian
-  last_name: Erichsmeier 
-  website: 
+  last_name: Erichsmeier
+  website:
 
 enders:
   first_name: Matthias
@@ -198,5 +198,4 @@ enders:
 goertz:
   first_name: Simon
   last_name: Görtz
-  website: 
-
+  website:

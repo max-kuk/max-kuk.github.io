@@ -15,3 +15,5 @@ vendor
 .devcontainer/
 .prettierignore
 .pre-commit-config
+package-lock.json
+package.json

@@ -1,7 +1,7 @@
 - id: panaffgbg
   title: "The PanAf-FGBG Dataset: Understanding the Impact of Backgrounds in Wildlife Behaviour Recognition"
   venue: CVPR, 2025
-  description: 
+  description:
   project_page: https://obrookes.github.io/panaf-fgbg.github.io/
   pdf: https://openaccess.thecvf.com/content/CVPR2025/html/Brookes_The_PanAf-FGBG_Dataset_Understanding_the_Impact_of_Backgrounds_in_Wildlife_CVPR_2025_paper.html
   image: background_neutralisation.png
@@ -32,11 +32,11 @@
 - id: bimae
   title: "BiMAE-A Bimodal Masked Autoencoder Architecture for Single-Label Hyperspectral Image Classification"
   venue: PBVS@CVPR, 2024
-  description: 
+  description:
   project_page:
   pdf: https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Kukushkin_BiMAE_-_A_Bimodal_Masked_Autoencoder_Architecture_for_Single-Label_Hyperspectral_CVPRW_2024_paper.html
   image: bimae.png
-  image_mouseover: 
+  image_mouseover:
   authors:
     - kukushkin
     - bogdan
@@ -49,10 +49,10 @@
   venue: ECML PKDD, 2024
   description:
   project_page:
-  github: 
+  github:
   pdf: https://link.springer.com/chapter/10.1007/978-3-031-70381-2_28
   image: bicae.png
-  image_mouseover: 
+  image_mouseover:
   authors:
     - kukushkin
     - bogdan
@@ -61,11 +61,10 @@
   awards:
     - "Oral Presentation"
 
-
 - id: kabr
   title: "Deep dive into KABR: a dataset for understanding ungulate behavior from in-situ drone video"
   venue: Multimedia Tools and Applications, 2024
-  description: 
+  description:
   project_page: "https://kabrdata.xyz"
   github: dirtmaxim/kabr-tools
   pdf: https://link.springer.com/article/10.1007/s11042-024-20512-4
@@ -94,7 +93,3 @@
     - stewart
   awards:
     - "Journal Paper"
-
-
-
-
