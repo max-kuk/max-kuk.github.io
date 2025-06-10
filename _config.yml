@@ -22,7 +22,7 @@ title: Maksim Kukushkin
 name: Maksim Kukushkin
 position: PhD Candidate & Research Associate
 email: kukushkin@informatik.uni-leipzig.de
-description: |
+description: |-
 
   I'm a PhD Student in the [Neuromorphic Information Processing Group](https://nmi.informatik.uni-leipzig.de/) at Leipzig University. In addition, I work as a Research Associate in the Digital Research Methods in Medicine Group at Martin Luther University. My PhD is supervised by [Jun.-Prof. Thomas Schmid](https://www.umh.de/forschung/nachwuchsgruppen/nwg-schmid) and [Prof. Martin Bogdan](https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/). 
 
@@ -30,7 +30,7 @@ description: |
 
   My research interests span the broad area of deep learning, computer vision, hyperspectral imaging, multimodal learning, and action recognition.
 
-  Before PhD, I worked @<a href="https://www.check24.de/">CHECK24</a> and @<a href="https://www.posterlounge.de/">Posterlounge</a>.
+  Before PhD, I worked @[CHECK24](https://www.check24.de) and @[Posterlounge](https://www.posterlounge.de/).
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://max-kuk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
