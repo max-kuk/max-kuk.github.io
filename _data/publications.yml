@@ -33,6 +33,7 @@
   title: "BiMAE-A Bimodal Masked Autoencoder Architecture for Single-Label Hyperspectral Image Classification"
   venue: PBVS@CVPR, 2024
   description: 
+  project_page:
   pdf: https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Kukushkin_BiMAE_-_A_Bimodal_Masked_Autoencoder_Architecture_for_Single-Label_Hyperspectral_CVPRW_2024_paper.html
   image: bimae.png
   image_mouseover: 
@@ -47,7 +48,8 @@
   title: "BiCAE – A Bimodal Convolutional Autoencoder for Seed Purity Testing"
   venue: ECML PKDD, 2024
   description:
-  github: google/hypernerf
+  project_page:
+  github: 
   pdf: https://link.springer.com/chapter/10.1007/978-3-031-70381-2_28
   image: bicae.png
   image_mouseover: 
@@ -55,9 +57,10 @@
     - kukushkin
     - bogdan
     - schmid
+  poster: https://drive.proton.me/urls/1CS8BAZ2ZM#YHmhcPfxXCqp
   awards:
     - "Oral Presentation"
-  poster: https://drive.proton.me/urls/1CS8BAZ2ZM#YHmhcPfxXCqp
+
 
 - id: kabr
   title: "Deep dive into KABR: a dataset for understanding ungulate behavior from in-situ drone video"
