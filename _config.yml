@@ -24,13 +24,13 @@ position: PhD Candidate & Research Associate
 email: kukushkin@informatik.uni-leipzig.de
 description: |-
 
-  I'm a PhD Student in the [Neuromorphic Information Processing Group](https://nmi.informatik.uni-leipzig.de/) at Leipzig University. In addition, I work as a Research Associate in the Digital Research Methods in Medicine Group at Martin Luther University. My PhD is supervised by [Jun.-Prof. Thomas Schmid](https://www.umh.de/forschung/nachwuchsgruppen/nwg-schmid) and [Prof. Martin Bogdan](https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/). 
+  I'm a PhD Student in the [Neuromorphic Information Processing Group](https://nmi.informatik.uni-leipzig.de/) at Leipzig University. In addition, I work as a Research Associate in the Digital Research Methods in Medicine Group at Martin Luther University. My PhD is supervised by [Jun.-Prof. Thomas Schmid](https://umh.de/forschung/nachwuchsgruppen/nwg-schmid) and [Prof. Martin Bogdan](https://nmi.informatik.uni-leipzig.de/staff/prof-dr-martin-bogdan/). 
 
-  I was also a visiting PhD student in the [MaVi Group](https://uob-mavi.github.io/) and worked with [Dr. Tilo Burghardt](http://people.cs.bris.ac.uk/~burghard/) and [Prof. Majid Mirmehdi](https://majidmirmehdi.github.io/).
+  I was also a visiting PhD student in the [MaVi Group](https://uob-mavi.github.io/) and worked with [Dr. Tilo Burghardt](https://tiloburghardt.github.io/) and [Prof. Majid Mirmehdi](https://majidmirmehdi.github.io/).
 
   My research interests span the broad area of deep learning, computer vision, hyperspectral imaging, multimodal learning, and action recognition.
 
-  Before PhD, I worked @[CHECK24](https://www.check24.de) and @[Posterlounge](https://www.posterlounge.de/).
+  Before PhD, I worked @[CHECK24](https://check24.de) and @[Posterlounge](https://posterlounge.de/).
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://max-kuk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
