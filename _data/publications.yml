@@ -3,8 +3,7 @@
   venue: CVPR, 2025
   description: 
   project_page: https://obrookes.github.io/panaf-fgbg.github.io/
-  arxiv: 
-  pdf: https://openaccess.thecvf.com/content/CVPR2025/papers/Brookes_The_PanAf-FGBG_Dataset_Understanding_the_Impact_of_Backgrounds_in_Wildlife_CVPR_2025_paper.pdf
+  pdf: https://openaccess.thecvf.com/content/CVPR2025/html/Brookes_The_PanAf-FGBG_Dataset_Understanding_the_Impact_of_Backgrounds_in_Wildlife_CVPR_2025_paper.html
   image: background_neutralisation.png
   image_mouseover: background_subtraction.mp4
   authors:
@@ -34,7 +33,7 @@
   title: "BiMAE-A Bimodal Masked Autoencoder Architecture for Single-Label Hyperspectral Image Classification"
   venue: PBVS@CVPR, 2024
   description: 
-  pdf: https://openaccess.thecvf.com/content/CVPR2024W/PBVS/papers/Kukushkin_BiMAE_-_A_Bimodal_Masked_Autoencoder_Architecture_for_Single-Label_Hyperspectral_CVPRW_2024_paper.pdf
+  pdf: https://openaccess.thecvf.com/content/CVPR2024W/PBVS/html/Kukushkin_BiMAE_-_A_Bimodal_Masked_Autoencoder_Architecture_for_Single-Label_Hyperspectral_CVPRW_2024_paper.html
   image: bimae.png
   image_mouseover: 
   authors:
