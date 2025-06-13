@@ -33,7 +33,7 @@ layout: null
   <link
     href="https://fonts.googleapis.com/css2?family=Google+Sans:wght@700&family=Noto+Sans:wght@400;500;600;700&display=swap"
     rel="stylesheet" />
-  <link href="/css/fontawesome.all.min.css" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <link href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" rel="stylesheet" />
   <link href="{{ '/css/bulma.min.css' | relative_url }}" rel="stylesheet" />
   <link href="{{ '/css/index.css' | relative_url }}" rel="stylesheet" />
@@ -210,6 +210,13 @@ layout: null
         </div>
       </div>
       {% endfor %}
+
+
+      <a class="external-link " href="https://scholar.google.com/citations?user={{ site.google_scholar}}">
+        <span>See all publications</span>
+        <span class="icon"><i class="fa-solid fa-arrow-up-right-from-square"></i></span>
+      </a>
+
     </div>
   </section>
 
