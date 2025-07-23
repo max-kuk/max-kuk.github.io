@@ -29,6 +29,7 @@
     - burghardt
   awards:
     - "Best Paper Award Candidate, Oral Presentation"
+  poster: https://obrookes.github.io/panaf-fgbg.github.io/static/images/poster/panaf-fgbg_poster_cvpr25.pdf
 - id: bimae
   title: "BiMAE-A Bimodal Masked Autoencoder Architecture for Single-Label Hyperspectral Image Classification"
   venue: PBVS@CVPR, 2024

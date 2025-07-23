@@ -200,11 +200,17 @@ layout: null
                 <span>Poster</span>
               </a>]
               {% endif %}
+              {% if publication.slides %}[
+              <a class="external-link" href="https://github.com/{{ publication.slides }}">
+                <span>Slides</span>
+              </a>]
+              {% endif %}
               {% if publication.github %}[
               <a class="external-link" href="https://github.com/{{ publication.github }}">
                 <span>Code</span>
               </a>]
               {% endif %}
+
             </div>
             <!--/ Publication Links. -->
           </div>
