@@ -45,22 +45,26 @@
   github: max-kuk/bimae_seed_classification
   poster: https://drive.proton.me/urls/QMEQRRV4PM#ees8eDoJHbOk
 
-- id: bicae
-  title: "BiCAE – A Bimodal Convolutional Autoencoder for Seed Purity Testing"
-  venue: ECML PKDD, 2024
+- id: bisid5k
+  title: "A bimodal image dataset for seed classification from the visible and near-infrared spectrum"
+  venue: Scientific Data, 2025
   description:
-  project_page:
-  github:
-  pdf: https://drive.google.com/file/d/1SWG-R8efLUFmk0DrMXG8OQJGKDR7bJNA/view?usp=drive_link
-  image: bicae.png
+  project_page: https://max-kuk.github.io/bisid-5k/
+  github: https://github.com/max-kuk/bisid-5k-tools
+  pdf: https://www.nature.com/articles/s41597-025-05979-6
+  image: bisid5k.png
   image_mouseover:
   authors:
     - kukushkin
     - bogdan
+    - goertz
+    - callsen
+    - oldenburg
+    - enders
     - schmid
-  poster: https://drive.proton.me/urls/1CS8BAZ2ZM#YHmhcPfxXCqp
+  poster: 
   awards:
-    - "Oral Presentation"
+    - "Journal Paper"
 
 - id: kabr
   title: "Deep dive into KABR: a dataset for understanding ungulate behavior from in-situ drone video"
